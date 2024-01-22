@@ -2,4 +2,4 @@
 
 Table of Contents
 
-- [Test Doc](docs/TEST.md)
+- [Test Doc](/docs/TEST)
