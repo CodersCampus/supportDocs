@@ -11,7 +11,7 @@
 
 - There are a ton of cool options for a great profile readme, you can find a huge list of options [here](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#code-mode-).
 
-- This [video](https://youtu.be/ktN5tDfQ_g8?si=EQKODJ9AS7vATGUq) is a good walkthrough on how to customize, and shows a few other websites where you can get this auto-generated if you don't want to mess with the actual code., he starts at minute 6. Using the site he uses which is [profileMe] (https://www.profileme.dev)
+- This [video](https://youtu.be/ktN5tDfQ_g8?si=EQKODJ9AS7vATGUq) is a good walkthrough on how to customize, and shows a few other websites where you can get this auto-generated if you don't want to mess with the actual code., he starts at minute 6. Using the site he uses which is [profileMe](https://www.profileme.dev)
 is MUCH easier than altering the readme yourself. I didn't know that site existed when I did mine, so I might actuall go back and use that site.
 
 # AS I CONSTANTLY SUGGEST, WORK WITH DAVID ROBERTS, WHO IS IN OUR SLACK.
