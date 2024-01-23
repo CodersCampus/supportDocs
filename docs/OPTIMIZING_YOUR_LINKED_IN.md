@@ -1,6 +1,6 @@
 # Customizing your LinkedIn profile is a necessity, and you should be doing it at the start of your bootcamp journey. In this doc, I'm going to walk you through the process of doing just that.
 
-- If you'd like to see mine as an example, you can view it [here] (https://www.linkedin.com/in/karendillehay/)
+- If you'd like to see mine as an example, you can view it [here](https://www.linkedin.com/in/karendillehay/)
 
 ## Things to note:
 - Notice my profile url, there are no trailing letters or numbers, this helps with "SEO" (Search Engine Optimization, or, how easily you will pop up when searched). Here is a quick [youtube](https://youtu.be/OAb-mVPBem8?si=btc5Cwl_pQBeqWvb) of how do to that.  
