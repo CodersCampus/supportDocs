@@ -1,6 +1,6 @@
-# I get a lot of questions about loops, the different kinds, when to use, and how they work, this is an attempt to try to demistify this topic.
+# I get a lot of questions about loops and else/if statements, the different kinds, when to use, and how they work, this is an attempt to try to demistify this topic.
 
-- Here are two of Trevor's videos in our course work covering that topic, [if](https://courses.coderscampus.com/students/courses/274/sections/674/lessons/4794), and [Else_if](https://courses.coderscampus.com/students/courses/274/sections/674/lessons/4795).
+- Here are two of Trevor's videos in our course work covering that topic, [if](https://courses.coderscampus.com/students/courses/274/sections/674/lessons/4794), and [Else_if](https://courses.coderscampus.com/students/courses/274/sections/674/lessons/4795), and his videos on [For_Loops](https://courses.coderscampus.com/students/courses/274/sections/675/lessons/4806), and [While_Loops](https://courses.coderscampus.com/students/courses/274/sections/675/lessons/4807).
 
 - Here is also a good [YouTube](https://www.youtube.com/watch?v=yvWnj_HfG6s) video from Alex Lee (He has some great coding tutorials) on that topic.
 
