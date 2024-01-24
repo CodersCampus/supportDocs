@@ -16,6 +16,6 @@
     - Enhanced For Loop
     - Nested For Loop
 
-    # This [webpage](https://www.beginwithjava.com/java/loops/questions.html) has a bunch of loop questions, and the coded answers, there is one that is basically the blueprint for assignment 2.
+    ## This [webpage](https://www.beginwithjava.com/java/loops/questions.html) has a bunch of loop questions, and the coded answers, there is one that is basically the blueprint for assignment 2.
 
-    # This [webpage](https://www.geeksforgeeks.org/java-for-loop-with-examples/) has great explanations and breakdowns of why loops are used and when to use them, as well as an area to play with pre-built code and practice, as well as some great graphics showing the flow of the code. 
+    ## This [webpage](https://www.geeksforgeeks.org/java-for-loop-with-examples/) has great explanations and breakdowns of why loops are used and when to use them, as well as an area to play with pre-built code and practice, as well as some great graphics showing the flow of the code. 
