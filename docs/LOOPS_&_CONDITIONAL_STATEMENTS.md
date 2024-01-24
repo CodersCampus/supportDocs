@@ -23,6 +23,6 @@
     ### And a [webpage](https://runestone.academy/ns/books/published/apcsareview/Conditionals/Exercises.html) for practicing you conditional statements with questions, and coded answers.
 
     ## Don't be afraid to ask Chat GPT questions, have it explain things to you, and make you practice problems, etc.
-    ## Example input to Chat GPT: "Can you explain while loops in java to me, I am a beginner".
+    ### Example input to Chat GPT: "Can you explain while loops in java to me, I am a beginner".
     # USING THE DEBUGGER WILL SAVE YOU A TON OF HEADACHE WHEN IT COMES TO THESE TOPICS!
     
