@@ -9,7 +9,7 @@
     - Do While
     - For Loops
 
-- Yet another [YouTube](https://www.youtube.com/watch?v=hs45eeZ326U) that's pretty in depth, fair warning, it's a bit dry, and a little long, but covers: 
+- Yet another [YouTube](https://www.youtube.com/watch?v=hs45eeZ326U) that's pretty in depth, fair warning, it's a    bit dry, and a little long, but covers: 
     - While Loop
     - Do While Loop
     - For Loop
@@ -19,3 +19,5 @@
     ### This [webpage](https://www.beginwithjava.com/java/loops/questions.html) has a bunch of loop questions, and the coded answers, there is one that is basically the blueprint for assignment 2.
 
     ### This [webpage](https://www.geeksforgeeks.org/java-for-loop-with-examples/) has great explanations and breakdowns of why loops are used and when to use them, as well as an area to play with pre-built code and practice, as well as some great graphics showing the flow of the code. 
+
+    ### And a [webpage](https://runestone.academy/ns/books/published/apcsareview/Conditionals/Exercises.html) for practicing you conditional statements with questions, and coded answers.
