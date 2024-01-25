@@ -2,6 +2,8 @@
 
 - Just like you perhaps have inherited your eye color and hair color, your code can also inherit things from a "parent" object. 
 
+- This is Trevor's [video](https://courses.coderscampus.com/students/courses/274/sections/677/lessons/4835) on inheritance.
+
 - Here is a [video](https://www.youtube.com/watch?v=Zs342ePFvRI) using Pete's favorite example, vehicles, car, etc.
 
 - And [here](https://www.baeldung.com/java-inheritance) is another Baeldung page coincidently using vehicle in their explanation as well!
