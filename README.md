@@ -9,3 +9,4 @@ Upgrading your socials:
 Coding support:
 - [Loops&Conditional_Statements](/docs/LOOPS_&_CONDITIONAL_STATEMENTS.md)
 - [Interfaces_&_Abstract_Classes](/docs/INTERFACES_&_ABSTRACT_CLASSES.md).
+- [Inheritance](/docs/INHERITANCE.md)
