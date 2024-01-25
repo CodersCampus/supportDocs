@@ -18,4 +18,4 @@ Here are the links to the coursework videos on [Interfaces](https://courses.code
 ### As we say so often, you can ask chat gpt to explain things to you, for exmple:
 ### "Please explain what interfaces are in Java, and how and why I'd use them".
 
-### And don't be afraid, if you are working on an exercise or assignment, to reach out to one of the full-stackers for help/explanations.  It's good review for them!
+### And don't be afraid, if you are working on an exercise or assignment, to reach out to one of the full-stackers for help/explanations.  It's good review for them! 
