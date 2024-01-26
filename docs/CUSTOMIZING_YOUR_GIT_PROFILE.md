@@ -17,3 +17,4 @@ is MUCH easier than altering the readme yourself. I didn't know that site existe
 
 # AS I CONSTANTLY SUGGEST, WORK WITH DAVID ROBERTS, WHO IS IN OUR SLACK.
 you can find his coursework [here](https://crushing.digital//#)
+to access his coursework for FREE (thank you Trevor) You must message him on our slack first.
