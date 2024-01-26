@@ -2,7 +2,7 @@
 
 Table of Contents:
 
-Upgrading your socials:
+Upgrading your socials/Job Search tips:
 - [Customizing your GitHub profile](/docs/CUSTOMIZING_YOUR_GIT_PROFILE.md)
 - [Customizing your LinkedIn](/docs/OPTIMIZING_YOUR_LINKED_IN.md)
 
