@@ -1,4 +1,4 @@
-### as always, for tips way more in depth than this, message David Roberts in our slack (we get free access to his coursework and office hours, that are similar to our check-ins but just job search oreinted), but for a brief starter:
+### As always, for tips way more in depth than this, message David Roberts in our slack (we get free access to his coursework and office hours, that are similar to our check-ins but just job search oreinted), but for a brief starter:
 
 - Before you apply anywhere, find that company on LinkedIn and follow them, you can search for keywords within a company under the "people" section.  I usually search with the words "Java", "Developer", "Full Stack", etc.  Follow all of them,, if they only have the immediate option to "Connect", don't do that, as it can be percieved as a little intrusive. Insead click on the 3 dots next to where it says "Connect", and that will open up an option to "Follow".
 
