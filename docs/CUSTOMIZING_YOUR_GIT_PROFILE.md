@@ -9,6 +9,7 @@
 - I also have my LinkedIn connected to that, I would call that a necessity.
 
 - There are a ton of cool options for a great profile readme, you can find a huge list of options [here](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#code-mode-).
+
 NOTE: THIS IS A SLIGHTLY HARDER OPTION AS YOU WILL HAVE TO ACTUALLY MANIPULATE THE CODE, THE LINK BELOW LEADS TO THE FAR EASIER OPTION, JUST DEPENDS ON HOW MUCH CUSTOMIZATION YOU'D LIKE.
 
 - This [video](https://youtu.be/ktN5tDfQ_g8?si=EQKODJ9AS7vATGUq) is a good walkthrough on how to customize, and shows a few other websites where you can get this auto-generated if you don't want to mess with the actual code., he starts at minute 6. Using the site he uses which is [profileMe](https://www.profileme.dev)
