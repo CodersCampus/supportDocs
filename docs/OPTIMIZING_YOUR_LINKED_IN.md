@@ -20,4 +20,5 @@
 - I also have my resume saved to my "featured posts" and my github linked as well.
 
 # AS I CONSTANTLY SUGGEST, WORK WITH DAVID ROBERTS, WHO IS IN OUR SLACK.
-you can find his coursework [here](https://crushing.digital//#)
+you can find his coursework [here](https://crushing.digital//#).
+to access his coursework for FREE (thank you Trevor) You must message him on our slack first.
