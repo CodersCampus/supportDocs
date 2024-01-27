@@ -11,7 +11,7 @@
 
 - Also make sure you have a nice, succinct "About me" section. I used chat gpt to create mine. I just told it what I was doing, and that I'm a full stack Java dev, and the frameworks and languages I use.
 
-- Also note that I rarely repost anything, only screen shots and recordings. For my recordings, I use [OBS_studio](https://obsproject.com), once I have the video, I edit, trim, and add music with [Clipchamp](https://clipchamp.com).
+- Also note that I rarely repost anything (and yo0u should hesitate to do that as well), only screen shots and recordings. For my recordings, I use [OBS_studio](https://obsproject.com), once I have the video, I edit, trim, and add music with [Clipchamp](https://clipchamp.com).
 
 - I also use a lot of hashtags, I will literally just google "top 10 hashtags for software developers" and use that as a reference.
 
