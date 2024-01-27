@@ -19,6 +19,8 @@
 
 - I also have my resume saved to my "featured posts" and my github linked as well.
 
+- While I am by no means an algorithm "guru", I've done a bit of reading, If you want your posts to have more impact/get more views, you can easily search "When is the best day and time to post to LinkedIn to get the furtherst reach. Once you do, you migtht see that instead of posting Friday at 11pm, perhaps wait for Monday at 11am(or whatever is suggested.)
+
 # AS I CONSTANTLY SUGGEST, WORK WITH DAVID ROBERTS, WHO IS IN OUR SLACK.
 you can find his coursework [here](https://crushing.digital//#).
 to access his coursework for FREE (thank you Trevor) You must message him on our slack first.
