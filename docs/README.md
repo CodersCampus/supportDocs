@@ -9,5 +9,5 @@ Upgrading your socials/Job Search tips:
 
 Coding support:
 - [Loops&Conditional_Statements](LOOPS_&_CONDITIONAL_STATEMENTS.md)
-- [Interfaces_&_Abstract_Classes](INTERFACES_&_ABSTRACT_CLASSES.md).
+- [Interfaces_&_Abstract_Classes](INTERFACES_ABSTRACT_CLASSES.md)
 - [Inheritance](INHERITANCE.md)
