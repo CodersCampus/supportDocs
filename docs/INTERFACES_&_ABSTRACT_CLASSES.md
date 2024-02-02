@@ -3,7 +3,7 @@
 Here are the links to the coursework videos on [Interfaces](https://courses.coderscampus.com/students/courses/274/sections/678/lessons/4843), [Abstract_Classes](https://courses.coderscampus.com/students/courses/274/sections/678/lessons/4844), [Extending_an_abstract_class](https://courses.coderscampus.com/students/courses/274/sections/678/lessons/4845), and [Using_an_abstract_class](https://courses.coderscampus.com/students/courses/274/sections/678/lessons/4846).
 
 # Simple table on the differences between the two:
-![Alt text](php3TRmaF.jpg)
+![Alt text](../images/php3TRmaF.jpg)
 
 - The [Baeldung](https://www.baeldung.com/java-interface-vs-abstract-class) page on Interface vs. Abstract has a great short explanation as well.  This is a great site for stellar explanations about anything Java that you could think of.
 
