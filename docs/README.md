@@ -4,11 +4,11 @@ Table of Contents:
 
 ## Getting started in the bootcamp:
 
-- [Accessing the coursework][FAQ/ACCESSING_COURSEWORK.md]
-- [How to tackle the coursework][FAQ/HOW_TO_TACKLE_COURSEWORK.md]
-- [How to turn in assignments][FAQ/HOW_TO_TURN_IN_ASSIGNMENTS.md]
-- [Slack channels and checkins][FAQ/SLACK_CHANNELS_AND_CHECKINs.md]
-- [What if I get stuck?][FAQ/WHAT_DO_I_DO_IF_IM_STUCK.md]
+- [Accessing the coursework](FAQ/ACCESSING_COURSEWORK.md)
+- [How to tackle the coursework](FAQ/HOW_TO_TACKLE_COURSEWORK.md)
+- [How to turn in assignments](FAQ/HOW_TO_TURN_IN_ASSIGNMENTS.md)
+- [Slack channels and checkins](FAQ/SLACK_CHANNELS_AND_CHECKINs.md)
+- [What if I get stuck?](FAQ/WHAT_DO_I_DO_IF_IM_STUCK.md)
 - [Post_Assessment_Recap](POST_ASSESSMENT_RECAP.md)
 
 ## Upgrading your socials/Job Search tips:
