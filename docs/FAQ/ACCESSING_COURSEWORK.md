@@ -1,6 +1,6 @@
 - **When do I get access to the coursework?:**
 
-                        Shortly after onboarding you should receive an email with the link to set up your username/password to the coursework site.Click on the top right link that says “my courses”, then navigate to the option that says “coder’s campus bootcamp”, begin watching the first video, when a video is complete, click the large blue bar at the top right that says “**complete and next**” this will unlock the next section once you have completed enough of them.
+                        Shortly after onboarding you should receive an email (Please check you junk folder) with the link to set up your username/password to the coursework site.Click on the top right link that says “my courses”, then navigate to the option that says “coder’s campus bootcamp”, begin watching the first video, when a video is complete, click the large blue bar at the top right that says “**complete and next**” this will unlock the next section once you have completed enough of them.
 
 &#x20;  ![](https://lh7-us.googleusercontent.com/tFWhgZl-MH1yq78DcrxCDJxYa3beoq9HL1qoCXWb-0O_GPSRX-rqJMW0rbSrxj5OFbi9MukvZXUy59ULX_2VC3LzLP2-XbLhdZzrjImmwlIsPa3tRmzhDoHOFAxutWZtZ08BLjXRh9DX3y4futH4heo)\
 **After you come to this screen and click “My Courses” you will see the screen below, the Coders Campus Bootcamp is the link to the actual coursework:**\
