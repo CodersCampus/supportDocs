@@ -2,6 +2,9 @@
 
 Table of Contents:
 
+Getting started in the bootcamp:
+- [Post_Assessment_Recap](POST_ASSESSMENT_RECAP.md)
+
 Upgrading your socials/Job Search tips:
 - [Customizing your GitHub profile](CUSTOMIZING_YOUR_GIT_PROFILE.md)
 - [Customizing your LinkedIn](OPTIMIZING_YOUR_LINKED_IN.md)
