@@ -13,6 +13,7 @@ Where mine says watch review, yours will say “Submit”. Also please note that
 
 
 ![](https://lh7-us.googleusercontent.com/Wh0UJ0XIGD-YPnbxnngVGXOyx890J70bxxPmbcqAVOvKdFVeynPoEZnArLjUoEU_VcxA_TyA9HAbOE3Sav5zTLSfpffn0wfIaYa-xFBwGUlYOl2IKM6-HiaLsL8dWarF2Hv7Sgd6VE95oyTZbuPQ0ws)
+
 Then you’ll see this screen, paste the link to the repository your assignment is in here:
 
 ![](https://lh7-us.googleusercontent.com/HyAbE7nCm3QDauccZfaQKBjseEBlGiwr7uWdpPFBwweq8Pul-2NyzL4HqnJF2f6Aho3TNJUpAK29YXRlNo-sNb-dYN1TrraBXHe_C7lrZrlFfzlsvVBsPwN0bD69zs68b9FyfrFs2vSkrix30dSSkfg)****
