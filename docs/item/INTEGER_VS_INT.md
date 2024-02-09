@@ -1,4 +1,4 @@
-# Hey y'all! I know it can be a little confusing, at least it was for me, when you see folks kind of interchangeably using "Integer" and "int". What is the difference? How come sometimes we HAVE to use Integer? when is it appropriate to use "int" in our code? I've put together a few things that helped me, and will hopefully help you! 
+### Hey y'all! I know it can be a little confusing, at least it was for me, when you see folks kind of interchangeably using "Integer" and "int". What is the difference? How come sometimes we HAVE to use Integer? when is it appropriate to use "int" in our code? I've put together a few things that helped me, and will hopefully help you! 
 
 This [youTube](https://youtu.be/osV3NKeTDr0?si=9vB-7Xe4E_NMX4_O) really breaks is down in a slow, easy to understand way, plus the little nugget that does it shows that sometimes it’s good to play around, see what works and what doesn’t, he didn’t edit one the little mistake he made, which is very normal for real devs, we make mistakes, it happens 🙂\
 So the basics: Integer is a class, more specifically a **wrapper** class.  What is that? What does it do?  \
