@@ -1,4 +1,5 @@
-**FREE RESOURCES!**Books:\
+**FREE RESOURCES!**
+Books:\
 \- [Extensive](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html#java) list of books on many languages, lots of Java.\
 \- [You\_don’t\_know\_JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) (series of books on JavaScript).\
 \- [Think\_Java: How to think like a Computer Scientist](https://greenteapress.com/thinkjava6/thinkjava.pdf). A free pdf/book encompassing all things Java. 
