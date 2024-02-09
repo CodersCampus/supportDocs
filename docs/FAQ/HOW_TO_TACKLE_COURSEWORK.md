@@ -1,4 +1,4 @@
-- **How should I approach the coursework/videos?**
+# How should I approach the coursework/videos?
 
 You should be actively coding along with Trevor in your own IDE, although when he is using notepad ++, be sure you are using VS code for those videos. Keep in mind you will probably be watching these videos more than once, that’s very normal.
 
