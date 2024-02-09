@@ -14,11 +14,11 @@ Table of Contents:
 ## Upgrading your socials/Job Search tips:
 
 - [Start _**RIGHT NOW**_ preparing to get that job!](FAQ/WHO_IS_DAVID_ROBERTS.md)
-- [Customizing your GitHub profile](CUSTOMIZING_YOUR_GIT_PROFILE.md)
-- [Customizing your LinkedIn](OPTIMIZING_YOUR_LINKED_IN.md)
-- [Job_Search_And_Application_Tips](HOW_TO_APPLY_FOR_A_JOB.md).
+- [Customizing your GitHub profile](elements/CUSTOMIZING_YOUR_GIT_PROFILE.md)
+- [Customizing your LinkedIn](elements/OPTIMIZING_YOUR_LINKED_IN.md)
+- [Job_Search_And_Application_Tips](elements/HOW_TO_APPLY_FOR_A_JOB.md).
 
 ## Coding support:
-- [Loops&Conditional_Statements](LOOPS_&_CONDITIONAL_STATEMENTS.md)
-- [Interfaces_&_Abstract_Classes](INTERFACES_ABSTRACT_CLASSES.md)
-- [Inheritance](INHERITANCE.md)
+- [Loops&Conditional_Statements](elements/LOOPS_&_CONDITIONAL_STATEMENTS.md)
+- [Interfaces_&_Abstract_Classes](elements/INTERFACES_ABSTRACT_CLASSES.md)
+- [Inheritance](elements/INHERITANCE.md)
