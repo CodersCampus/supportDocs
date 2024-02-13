@@ -56,10 +56,13 @@ Sticking with our poker game as a reference, what are some methods we could use 
 \- Example:\
     flushCountMap.put(playerName, flushCountMap.getOrDefault(playerName, 0) + 1);\
 
-**.get(Object key)**- Retrieves the value associated with the specified key, for example, if we wanted a count of all the flushes a player had we could use this method.\
+**.get(Object key)**
+- Retrieves the value associated with the specified key, for example, if we wanted a count of all the flushes a player had we could use this method.\
 \- Example:\
 &#x20;          Integer flushCount = flushCountMap.get(playerName);\
-.**remove(Object key):**-Removes the mapping for a key from this map if it is present. So we could use this method  to remove a player (key) from the flush count map if we need to.\
+
+.**remove(Object key):**
+-Removes the mapping for a key from this map if it is present. So we could use this method  to remove a player (key) from the flush count map if we need to.\
 \- Example:\
     flushCountMap.remove(playerName);\
 
@@ -86,7 +89,8 @@ myList.forEach(fruit -> System.out.println(fruit));
 
 ****
 
-**.keySet()**Allows you to use just the keys in a set of data, for our poker example, it we just wanted the player’s names, and nothing else, if we had a Map called “flushCountMap” with the players names as a key, and the number of their flushes in the poker game as a value. We could use the following code example to get just the keys,iterate over them, and print them out:\
+**.keySet()**
+-Allows you to use just the keys in a set of data, for our poker example, it we just wanted the player’s names, and nothing else, if we had a Map called “flushCountMap” with the players names as a key, and the number of their flushes in the poker game as a value. We could use the following code example to get just the keys,iterate over them, and print them out:\
     Set\<String> playerNames = flushCountMap.keySet();
 
 ****
@@ -97,8 +101,10 @@ myList.forEach(fruit -> System.out.println(fruit));
 
         }\
 
-**.values()**Does the same thing as the above .keySet, but this is used just to get the values.\
+**.values()**
+-Does the same thing as the above .keySet, but this is used just to get the values.\
 
-**.containsKey(Object key)**used to check if a specific key is present in a Map, for example, let’s say we wanted to check if a specific player exists in our map. Let’s see if we have a player named Bob:\
+**.containsKey(Object key)**
+-Used to check if a specific key is present in a Map, for example, let’s say we wanted to check if a specific player exists in our map. Let’s see if we have a player named Bob:\
 boolean bobIsPresent = playerScores.containsKey("Bob");\
 You won’t need all of these methods in that exercise, but they are good to know! 
