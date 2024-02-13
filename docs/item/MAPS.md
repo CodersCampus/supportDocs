@@ -1,8 +1,8 @@
-Some of your first exposure to actually code with Maps will probably be the [Map\_Practice](https://courses.coderscampus.com/students/courses/274/sections/679/lessons/5064) exercise in Unit 9 (the third exercise in that unit). This can be frustrating at first! I know it was for me, so this doc will hopefully help demystify this type of Java collection for you! \
-I’ve added a lot of information below, but here is a [YouTube\_video](https://www.youtube.com/watch?v=H62Jfv1DJlU) that explains it really well too. And this [website](https://www.designgurus.io/blog/what-is-java-map-class-and-its-uses) does a great job breaking down Maps (along with HashMap, TreeMap, and LinkedHashMap). Also dives into the benefits, when to use which, and what makes them unique.\
-## So what are Maps?\
-In Java, a Map is like a dictionary that allows you to store information in pairs. Think of it as a collection where every piece of data has a unique name, and you can quickly find and retrieve that data using its name.\
-Maps are like personalized, efficient data organizers. They help you quickly find, update, and manage information in a way that's easy to understand and use. Whenever you have pairs of related information, and you want fast access to that information, using a map is a smart choice.\
+Some of your first exposure to actually code with Maps will probably be the [Map\_Practice](https://courses.coderscampus.com/students/courses/274/sections/679/lessons/5064) exercise in Unit 9 (the third exercise in that unit). This can be frustrating at first! I know it was for me, so this doc will hopefully help demystify this type of Java collection for you! 
+I’ve added a lot of information below, but here is a [YouTube\_video](https://www.youtube.com/watch?v=H62Jfv1DJlU) that explains it really well too. And this [website](https://www.designgurus.io/blog/what-is-java-map-class-and-its-uses) does a great job breaking down Maps (along with HashMap, TreeMap, and LinkedHashMap). Also dives into the benefits, when to use which, and what makes them unique.
+## So what are Maps?
+In Java, a Map is like a dictionary that allows you to store information in pairs. Think of it as a collection where every piece of data has a unique name, and you can quickly find and retrieve that data using its name.
+Maps are like personalized, efficient data organizers. They help you quickly find, update, and manage information in a way that's easy to understand and use. Whenever you have pairs of related information, and you want fast access to that information, using a map is a smart choice.
 
 
 **Why Use Maps?**
