@@ -48,19 +48,22 @@ Maps are useful for caching data. If you've computed a result once, you can stor
 
 **There are helpful methods built in that we can take advantage of:**\
 Sticking with our poker game as a reference, what are some methods we could use to do this exercise?\
+
 .**getOrDefault(Object key, V defaultValue):**- Retrieves the value associated with the specified key or a default value if the key is not present. So we could use this to update the flush count to handle the case where the player’s name is not already in the map.\
+
 **.put(K key, V value):**\
 \- Adds a key-value pair to the map, you can use it to update the flush count map when a flush hand is encountered.\
 \- Example:\
     flushCountMap.put(playerName, flushCountMap.getOrDefault(playerName, 0) + 1);\
+
 **.get(Object key)**- Retrieves the value associated with the specified key, for example, if we wanted a count of all the flushes a player had we could use this method.\
 \- Example:\
 &#x20;          Integer flushCount = flushCountMap.get(playerName);\
 .**remove(Object key):**-Removes the mapping for a key from this map if it is present. So we could use this method  to remove a player (key) from the flush count map if we need to.\
 \- Example:\
     flushCountMap.remove(playerName);\
-**.forEach(key, value)**
 
+**.forEach(key, value)**
 \- This is a way of iterating through the elements of a collection, like a loop, .forEach is not a traditional loop construct like “for” or “while”, it serves a similar purpose by allowing you to iterate over elements and perform actions\
 \- Comparison example of a .forEach vs a “for” loop:\
 For loop:\
@@ -93,7 +96,9 @@ myList.forEach(fruit -> System.out.println(fruit));
             System.out.println(playerName);
 
         }\
+
 **.values()**Does the same thing as the above .keySet, but this is used just to get the values.\
+
 **.containsKey(Object key)**used to check if a specific key is present in a Map, for example, let’s say we wanted to check if a specific player exists in our map. Let’s see if we have a player named Bob:\
 boolean bobIsPresent = playerScores.containsKey("Bob");\
 You won’t need all of these methods in that exercise, but they are good to know! 
