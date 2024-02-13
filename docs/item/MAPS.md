@@ -59,12 +59,12 @@ Sticking with our poker game as a reference, what are some methods we could use 
 **.get(Object key)**
 - Retrieves the value associated with the specified key, for example, if we wanted a count of all the flushes a player had we could use this method.\
 \- Example:\
-&#x20;          Integer flushCount = flushCountMap.get(playerName);\
+&#x20;          Integer flushCount = flushCountMap.get(playerName);
 
 .**remove(Object key):**
 -Removes the mapping for a key from this map if it is present. So we could use this method  to remove a player (key) from the flush count map if we need to.\
 \- Example:\
-    flushCountMap.remove(playerName);\
+    flushCountMap.remove(playerName);
 
 **.forEach(key, value)**
 \- This is a way of iterating through the elements of a collection, like a loop, .forEach is not a traditional loop construct like “for” or “while”, it serves a similar purpose by allowing you to iterate over elements and perform actions\
@@ -99,10 +99,10 @@ myList.forEach(fruit -> System.out.println(fruit));
 
             System.out.println(playerName);
 
-        }\
+        }
 
 **.values()**
--Does the same thing as the above .keySet, but this is used just to get the values.\
+-Does the same thing as the above .keySet, but this is used just to get the values.
 
 **.containsKey(Object key)**
 -Used to check if a specific key is present in a Map, for example, let’s say we wanted to check if a specific player exists in our map. Let’s see if we have a player named Bob:\
