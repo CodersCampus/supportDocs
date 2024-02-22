@@ -14,3 +14,7 @@ This is probably as important, or sometimes even more, than getting yours skills
 
 For more general coding questions.
 - [Coding FAQ](FAQ/CODING_SUPPORT_FAQ.md)
+
+## Bootcamp issues
+
+- [What happens if you fall behind?]
