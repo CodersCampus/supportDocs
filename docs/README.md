@@ -17,4 +17,4 @@ For more general coding questions.
 
 ## Bootcamp issues
 
-- [What happens if you fall behind?]
+- [What happens if you fall behind?](FAQ/BOOTCAMP_ISSUES.md) 
