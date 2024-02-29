@@ -19,7 +19,7 @@
 
 - I also have my resume saved to my "featured posts" and my github linked as well.
 
-- While I am by no means an algorithm "guru", I've done a bit of research, If you want your posts to have more impact/get more views, you can easily search "When is the best day and time to post to LinkedIn to get the furthest reach. Once you do, you might see that instead of posting Friday at 11pm, perhaps wait for Monday at 11am(or whatever is suggested.). I am able to see exactly how many people have seen my posts/ what time got the most hits etc. because I have linkedIn Premium, not a necessity but it is nice, it's about $35 U.S./month.
+- While I am by no means an algorithm "guru", I've done a bit of research, If you want your posts to have more impact/get more views, you can easily search "When is the best day and time to post to LinkedIn to get the furthest reach. Once you do, you might see that instead of posting Friday at 11pm, perhaps wait for Monday at 11am(or whatever is suggested.). When you are making a post, you can schedule it to be posted at a later time, if you look right next to the blue "post" button, there is a small image of a clock, if you click that it will give you that option. I am able to see exactly how many people have seen my posts/ what time got the most hits etc. because I have linkedIn Premium, not a necessity but it is nice, it's about $35 U.S./month.
 
 # AS I CONSTANTLY SUGGEST, WORK WITH DAVID ROBERTS, WHO IS IN OUR SLACK.
 you can find his coursework [here](https://crushing.digital//#).
