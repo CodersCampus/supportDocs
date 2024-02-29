@@ -1,7 +1,7 @@
 # You can customize your git profile, by editing your readme.md.
 
 -If you'd like to see mine as a reference you can find it [here](https://github.com/Kadillehay).
-- I just realized some of the code I was references for this is no longer available so isn't rendering correctly, I'll fix that soon.
+- I just realized some of the code I was referencing in my git profile for this is no longer available so isn't rendering correctly, I'll fix that soon.
 
 - Again, like LinkedIn, have a nice profile picture, I used an AI generated headshot, you can find more info about that in the LinkedIn doc. [This](https://www.unite.ai/best-ai-headshot-generators/) is a list of AI sites that can do that for you.
 
