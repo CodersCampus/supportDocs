@@ -15,7 +15,7 @@
 
 - I also use a lot of hashtags, I will literally just google "top 10 hashtags for software developers" and use that as a reference.
 
-- I suggest following companies you are interested in, and when you are looking at those companies, you can search within that company and search things like "java", "software", etc.
+- I suggest following companies you are interested in, and when you are looking at those companies, you can search within that company and search things like "java", "software", etc. If you'd like some help with that hit me up! (this is Karen).
 
 - I also have my resume saved to my "featured posts" and my github linked as well.
 
