@@ -6,7 +6,7 @@ As soon as you finish the first assignment, please contact David Roberts and get
 
 David Roberts operates as “Crushing Digital”. His job is to help dev’s get a job, he will help you with your resume, git profile, and LinkedIn profile. 
 
-He is in our slack, I usually recommend reaching out to him after assignment one once you are settled in. You get free access to him, and while technically not required, I highly suggest working with him unless you are just taking the bootcamp for a way to pass the time :). 
+He is in our slack, I usually recommend reaching out to him after assignment one once you are settled in. You get FREE access to him as a member of the bootcamp!!!!, and while technically not required, I highly suggest working with him unless you are just taking the bootcamp for a way to pass the time :). 
 
 David Roberts is here to make sure you are prepared to take it all the way, and get a job.
 
