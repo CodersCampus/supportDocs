@@ -5,7 +5,7 @@
 
 - Again, like LinkedIn, have a nice profile picture, I used an AI generated headshot, you can find more info about that in the LinkedIn doc. [This](https://www.unite.ai/best-ai-headshot-generators/) is a list of AI sites that can do that for you.
 
-- You'll also see that I have a website connected to mine, not a necessity, but if you have a profile webiste, you can link it there.
+- You'll also see that I have a website connected to mine, not a necessity, but if you have a profile website, you can link it there.
 
 - I also have my LinkedIn connected to that, I would call that a necessity.
 
