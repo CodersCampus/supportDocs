@@ -7,5 +7,5 @@
 - [What if I get stuck?](../item/WHAT_DO_I_DO_IF_IM_STUCK.md)
 - [Free books on Java and other topics](../item/FREE_BOOKS_ON_JAVA.md)
 
-# Post assessment and post onboarding docs:
+# Post assessment:
 - [POST ASSESSMENT FAQ & ANSWERS](../item/POST_ASSESSMENT_RECAP.md)
