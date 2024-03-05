@@ -5,4 +5,4 @@
 - [How to turn in assignments](../item/HOW_TO_TURN_IN_ASSIGNMENTS.md)
 - [Slack channels and checkins](../item/SLACK_CHANNELS_AND_CHECKINs.md)
 - [What if I get stuck?](../item/WHAT_DO_I_DO_IF_IM_STUCK.md)
-  [Free_books_on_Java_and_other_things](../item/FREE_BOOKS_ON_JAVA.md)
+- [Free_books_on_Java_and_other_things](../item/FREE_BOOKS_ON_JAVA.md)
