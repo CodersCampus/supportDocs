@@ -8,7 +8,7 @@
     - Make a copy of your resume, and customize it to fit what they are looking for, mentions thier company name, and structure your resume to fit what they are looking for.
     - Make a copy of your cover letter, and do the same thing, customize it so it shows off your skills, the ones they were looking for in thier job posting (of even if they don't have a posting, a lot of places have an "open application" section, or just straight up message someone in HR and explain in a polite, proffessional way why you are emailing them directly.)
 
-    ## MAKE   SURE  YOU  FOLLOW  UP!!!!!!
+## MAKE   SURE  YOU  FOLLOW  UP!!!!!!
 
 - Keep track of where you have applied, with notes, you can do this in an Excel spreadsheet, or you can use something like [Notion](https://www.notion.so) to keep track of this. This is what I use, they have many, many different services/templates. I use it for all my calendar as well, as you can integrate many different ones from google, etc. 
 
