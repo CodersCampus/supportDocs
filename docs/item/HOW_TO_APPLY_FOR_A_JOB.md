@@ -13,3 +13,7 @@
 - Keep track of where you have applied, with notes, you can do this in an Excel spreadsheet, or you can use something like [Notion](https://www.notion.so) to keep track of this. This is what I use, they have many, many different services/templates. I use it for all my calendar as well, as you can integrate many different ones from google, etc. 
 
 - After you've applied, wait 2 days , then follow up, then wait 3 days after that, follow up. Then wait 4 days after that, etc. etc. until you get some kind of reply, people get busy, so remind them of who you are/why you applied/why you think you'd be a good fit.
+
+## BE WARY OF SCAMS!
+
+- Sadly, there are some fake job posting out there, in some cases these are "Resume Farms", the "emplyer" will use the information on your resume, and sell it.  Or the employment posting might be a straight up phishing scam.  Please use your best judgement, research the company name, and if you have a gut feeling, or there are "red flags", hesitate on applying.  If you aren't sure, reach out to one of your bootcamp instructors and run it by them.
