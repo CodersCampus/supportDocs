@@ -63,10 +63,12 @@ Please note Irish lives in a remote time zone, so if you don’t hear back immed
 If you have been regularly attending check-ins, and making a true effort in the bootcamp, it will be up to the leadership group to offer you an extension, for a monthly fee. This can get expensive! So we greatly advise against falling behind. Please reach out to Irish Morales if you are getting to the end of your bootcamp contract time and feel like you might be in this position.
 
 **What happens if I have a major life event during the bootcamp?**
+
 Sometimes a major life event (death in the family, traumatic accident, etc) happens to one of our students. Every such situation is then evaluated individually, and depends upon the performance of the student up to that point. For example, if you have regularly attended check-ins, worked diligently on assignments etc, there exists the possibility of “pausing” your contract, so you do not fall behind. In such a situation, please contact Irish Morales, and Karen Dillehay, we will then take your case to the bootcamp leadership for evaluation.\
 \*Please note this is not a guarantee, and will go on a student by student basis, and may look different for every student.  We will not make any of your situation public in any way, and you will have complete confidentiality.
 
 **Who is David Roberts?** 
+
 David Roberts is someone services Trevor has paid for, so we have full access to him,and his full courses. He will help with your LinkedIn, Resume, Git profiles etc.  I would suggest looking at some of his reviews of others, on his LinkedIn, to get a better idea of what it is he is able to help you with, here is a link to his [LinkedIn](https://www.linkedin.com/in/davidproberts/). Just scroll through his profile to find some of his review videos. After assignment 1 or 2, when you are settled in at the bootcamp, reach out to him, he is on our slack so you can DM him.\
 &#x20;    \*Please note he lives in England so he may not ping you back immediately.\
 **\*While it is optional, it’s suggested that you have the Slack app on your phone, it makes communication easier, and can be helpful for check-in reminders.**
