@@ -1,4 +1,4 @@
-Other than customizing your git profile, which I cover here to have it more personalized, there are also some other changes you do to make it easier for recruiters/other devs. To navigate, and set yourself apart.\
+Other than customizing your git profile, which I cover [here](../item/CUSTOMIZING_YOU_GIT_PROFILE.md) to have it more personalized, there are also some other changes you do to make it easier for recruiters/other devs. To navigate, and set yourself apart.\
 -Pinning your latest/best projects, this is similar to the “featured" section of your LinkedIn, it just highlights them.\
 -Adding a descriptive README, these are like instructions for how to use your project/what it does. (Chat gpt does a good job making these for you if you tell it what your project is).\
 -You can add “Descriptors” . These are kind of like hashtags on social media.  You can simply start typing something like “java” and it will fill in the rest of the word for you.\
