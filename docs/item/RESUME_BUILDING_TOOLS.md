@@ -4,6 +4,7 @@ It can be very daunting when you sit down to start working on your resume, lucki
 Resources:
 
 [EnhanCV](https://enhancv.com/resources/resume-checker/): In this site, which is free, you can feed in your resume and it will tell you the percentage of things on your resume that will get past ATS, and also make suggestions.\
+
 [Resume.co](http://resume.co): A free site that helps build an ATS friendly resume.\
 
 [Teal](https://www.tealhq.com/): This is what I personally used to build my resume, also free, and I found it pretty easy to use.
