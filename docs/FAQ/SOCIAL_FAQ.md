@@ -5,4 +5,4 @@
 - [Customizing your LinkedIn](../item/OPTIMIZING_YOUR_LINKED_IN.md)
 - [Job Search And Application Tips](../item/HOW_TO_APPLY_FOR_A_JOB.md)
 - [Free practice interview sites](../item/PRACTICE_INTERVIEW_SITES.md)
-- [Building your resume](.//item/RESUME_BUILDING_TOOLS.md)
+- [Building your resume](../item/RESUME_BUILDING_TOOLS.md)
