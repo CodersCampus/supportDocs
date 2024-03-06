@@ -16,4 +16,4 @@
 
 ## BE WARY OF SCAMS!
 
-- Sadly, there are some fake job posting out there, in some cases these are "Resume Farms", the "emplyer" will use the information on your resume, and sell it.  Or the employment posting might be a straight up phishing scam.  Please use your best judgement, research the company name, and if you have a gut feeling, or there are "red flags", hesitate on applying.  If you aren't sure, reach out to one of your bootcamp instructors and run it by them.
+- Sadly, there are some fake job posting out there, in some cases these are "Resume Farms", the "employer" will use the information on your resume, and sell it.  Or the employment posting might be a straight up phishing scam.  Please use your best judgement, research the company name, and if you have a gut feeling, or there are "red flags", hesitate on applying.  If you aren't sure, reach out to one of your bootcamp instructors and run it by them.
