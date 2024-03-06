@@ -35,7 +35,7 @@ public class StreamExample {
         // Magic wand (Java Stream) to pick out even numbers and write them down
 
         numbers.stream()\
-//the line just below this is saying: if the result of that number being evenly, it’s an even number so filter it.
+//the line just below this is saying: if the result of that number can be divided by two without a remainder, it’s an even number so filter it.
 
                .filter(n -> n % 2 == 0)
 
