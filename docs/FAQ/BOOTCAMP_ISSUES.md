@@ -1,4 +1,4 @@
 # Falling behind, Late graduation, Other issues:
 
-- [What_happens_if_start_falling_behind?](../item/FALL_BEHIND.md)
+- [What happens if start falling behind?](../item/FALL_BEHIND.md)
 
