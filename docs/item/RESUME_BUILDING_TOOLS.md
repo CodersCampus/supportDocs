@@ -2,8 +2,10 @@ It can be very daunting when you sit down to start working on your resume, lucki
 [This](https://premium.linkedin.com/content/premium/global/en_us/index/jobsearch/articles/the-easy-how-to-guide-for-formatting-resumes-for-applicant-tracking-systems) LinkedIn article also has some info on what ATS is, and how to format your resume to get past it.
 
 Resources:\
+
 [EnhanCV](https://enhancv.com/resources/resume-checker/): In this site, which is free, you can feed in your resume and it will tell you the percentage of things on your resume that will get past ATS, and also make suggestions.\
 [Resume.co](http://resume.co): A free site that helps build an ATS friendly resume.\
+
 [Teal](https://www.tealhq.com/): This is what I personally used to build my resume, also free, and I found it pretty easy to use.
 
 ****
