@@ -9,4 +9,6 @@
 - [Streams](../item/STREAMS.md)
 - [Testing your knowledge!](../item/CODE_PRACTICE_PROBLEMS_SITE.md)
 
+ - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
+
 
