@@ -9,6 +9,7 @@
 - [Creating_a_Method](../item/WHAT_IS_A_METHOD.md)
 - [Streams](../item/STREAMS.md)
 - [Testing your knowledge!](../item/CODE_PRACTICE_PROBLEMS_SITE.md)
+- [Scrimba](../item/SCRIMBA.md) is an interactive learning platform, lots of free courses and coding practice!
 
 
 
