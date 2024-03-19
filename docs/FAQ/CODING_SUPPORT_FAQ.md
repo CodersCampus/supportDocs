@@ -9,6 +9,7 @@
 - [Creating_a_Method](../item/WHAT_IS_A_METHOD.md)
 - [Streams](../item/STREAMS.md)
 - [Overriding and Overloading methods](../item/OVERRIDING_OVERLOADING.md)
+- [Array vs ArrayList](.//item/ARRAY_AND_ARRAYLIST.md)
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
