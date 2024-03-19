@@ -1,5 +1,7 @@
 Preparing for a tech interview requires a combination of technical knowledge, problem-solving skills, and effective communication. I have done 6 or 7 I think, and they were all pretty different. Some were just [LeetCode](https://leetcode.com/) problems (If you want to practice LeetCode, or HackerRank which is very similar I have the sites listed [here](../item/CODE_PRACTICE_PROBLEMS_SITE.md) I suggest starting off with Edabit), some were gathering and sorting data from API calls, one was simply a behavior test with multiple choice answers, with super odd questions, and apparently I didn't do well because I didn't hear back.  
 
+*IF YOU ARE CODING AND AN INTERVIEW IS WATCHING, TALK. TALK THROUGH YOUR THOUGHT PROCESS. TALK THROUGH YOUR CODE. DON'T SIT THERE QUIETLY, EVEN IF YOU ARE UNSURE OF YOURSELF AND AREN'T EVEN SURE IF WHAT YOU ARE SAYING RIGHT. DON'T BE AFRAID TO SAY "I'M NOT ACTUALLY SURE HOW TO DO THAT, BUT THIS IS HOW I WOULD FIND A SOLUTION."
+
 - Here are some of the best ways to prepare for a tech interview:
 
 1. Review Core Concepts:
