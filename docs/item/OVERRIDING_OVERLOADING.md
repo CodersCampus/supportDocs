@@ -1,5 +1,8 @@
 Overloading vs Overriding, what is the difference and what is the purpose?\
 To understand the difference between overloading vs. overriding, it's first necessary to define these terms.\
+
 \- Overloading occurs when two or more methods in a class have the same name but different parameters. This **allows for other behavior depending on what the method is called.** For example, a class might have two overloaded "move" methods. One move version might need two parameters for the x and y coordinates to move, while another might take one parameter for the amount to move in a specific direction.\
+
 \- Overriding occurs when a child class inherits a method from a parent class but provides its implementation of that method. The purpose of this is to **change the behavior of the inherited method**. For example, a child class might override the move method from its parent to provide different behavior.\
+
 It’s kind of hard to do this without examples, so [here](https://youtu.be/u4YcW-ex7Yk?si=idG5dZ9G08vn4yl0) is a youtube video from Alex Lee that breaks down with a few great, simple examples, what overriding in Java does. He also has one on [overloading](https://youtu.be/cAb0nbNzabo?si=AjP2D0uysQySTW3c)
