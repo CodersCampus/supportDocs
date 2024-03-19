@@ -21,7 +21,7 @@ You can solve problems, learn from tutorials, and participate in mock interviews
 It provides a free plan with access to a range of coding problems and tutorials.
 You can solve challenges, view solutions, and learn from the community discussions.
 
--[Java67](https://www.java67.com/):
+- [Java67](https://www.java67.com/):
     *This site looks a little janky but has good interview questions. 
     Java67 is a blog that provides a collection of Java-specific interview questions and answers.
 It covers various topics related to Java programming, including core Java, web development, and frameworks.
