@@ -2,7 +2,9 @@
 
 -What is an array?\
 An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.\
--[Here](https://youtu.be/xzjZy-dHHLw?si=Y8X3tTz3dtQe345I) is a video that helped me, from Alex Lee, going over the basics of arrays, using zombie killing in the examples, as someone who loves anything zombie related, that’s a win win.  
+-[Here](https://youtu.be/xzjZy-dHHLw?si=Y8X3tTz3dtQe345I) is a video that helped me, from Alex Lee, going over the basics of arrays, using zombie killing in the examples, as someone who loves anything zombie related, that’s a win win. 
+-What is an ArrayList?
+An ArrayList class is a resizable array, which is present in the java. util package. While built-in arrays have a fixed size, ArrayLists can change their size dynamically. Elements can be added and removed from an ArrayList whenever there is a need, helping the user with memory management. 
 
 -But there’s more to tackle, Arrays vs ArrayList, what is the difference? When to use one, and not the other. One big difference is that an ArrayList is used to represent a DYNAMIC list. While Java arrays are FIXED IN SIZE (the size cannot be modified), an ArrayList allows flexibility by being able to both add and remove elements.
 
