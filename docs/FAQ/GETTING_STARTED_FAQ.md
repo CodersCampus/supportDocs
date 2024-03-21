@@ -14,3 +14,7 @@
 
 # Post assessment:
 - [POST ASSESSMENT FAQ & ANSWERS](../item/POST_ASSESSMENT_RECAP.md)
+
+# Important links
+
+- [Bookmarks from the various Slack channels](../item/IMPORTANT_LINKS.md)
