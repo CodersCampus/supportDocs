@@ -13,4 +13,4 @@ So spend 4 hours researching before you reach out for help on the slack channels
 
 This is the most critical skill you will learn during this bootcamp!
 
-You will have to get good at researching on your own when you are stuck. Even once you are working, there is no way you are going to be able to memorize everything to do with coding. Googling, asking Chat GPT, looking on Stack Overflow (kind of like Reddit for devs), looking at YouTube videos, and REWATCHING the coursework videos are just jumping off points.
+You will have to get good at researching on your own when you are stuck. Even once you are working, there is no way you are going to be able to memorize everything to do with coding. Googling, asking Chat GPT, Claude AI, looking on Stack Overflow (kind of like Reddit for devs), looking at YouTube videos, and REWATCHING the coursework videos are just jumping off points.
