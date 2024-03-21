@@ -20,3 +20,4 @@
 
 # Networking
 - [Networking 101](../item/NETWORKING.md)
+- [Tons of Email/DM templates, plus tips for networking](https://resilientcoders.notion.site/100devs-Email-Templates-ea2a8c9bef5646549b3b1702281b0a45)
