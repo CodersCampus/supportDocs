@@ -6,7 +6,7 @@ Table of Contents:
 Start here if you are new to the bootcamp.
 - [Getting started FAQ](FAQ/GETTING_STARTED_FAQ.md)
 
-## Upgrading your socials/Job Search tips/Resume/Interview.
+## Upgrading your socials/Job Search tips/Resume/Interview/Networking.
 This is probably as important, or sometimes even more, than getting yours skills up!
 - [Jobs Search FAQ](FAQ/SOCIAL_FAQ.md)
 
