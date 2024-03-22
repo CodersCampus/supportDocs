@@ -23,3 +23,6 @@
 - [Networking 101](../item/NETWORKING.md)
 - [Tons of Email/DM templates, plus tips for networking](https://resilientcoders.notion.site/100devs-Email-Templates-ea2a8c9bef5646549b3b1702281b0a45)
 - [Virtual/Online networking](../item/VIRTUAL_NETWORKING.md)
+
+# Career Advice
+- [Brutally honest dev career advice](https://noahkagan.com/brutally-honest-career-advice-to-my-younger-self/?utm_source=tldrwebdev)
