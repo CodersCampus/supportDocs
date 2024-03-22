@@ -17,6 +17,7 @@
 - [What is a technical interview?](../item/WHAT_IS_A_TECH_INTERVIEW.md)
 - [How to prep for a tech interview](../item/HOW_TO_PREP_FOR_TECH_INTERVIEW.md)
 - [Free practice interview sites](../item/PRACTICE_INTERVIEW_SITES.md)
+- [YouTube vids on full interview/tips](../item/YOUTUBE_INTERVIEWS.md)
 
 # Networking
 - [Networking 101](../item/NETWORKING.md)
