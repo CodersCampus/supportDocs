@@ -1,15 +1,14 @@
-IMPORTANT LINKS (Bookmarks from the various slack channels):\
-\- [Assignment submission app](https://assignments.coderscampus.com/dashboard)\
-\- [Bootcamp calendar](https://calendar.google.com/calendar/u/0/r?cid=Y18wYWFiYWI0ODJmYjQ3NjA3N2VhZGQzNGM1ZmZhMDU3NDk5ZjdhYmUxYTYzZGMzNmU0Y2YxMTgwOGE2NGQ5ZDc1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)\
-\- [CC bootcamp courses](https://courses.coderscampus.com/students/courses/)
+YouTube videos of software engineer tech interviews/tips/questions (there are tons, but I liked these ones):\
+\* I’ll be adding more!\
+\- [Software Engineering Job Interview – Full Mock Interview](https://youtu.be/1qw5ITr3k9E?si=VA07dXKLQP3j8XCU)\
+\- [What to expect at your Junior Developer interview](https://youtu.be/cTatCDnvGBY?si=wFRGm7aYONyKV1VI)
 
-\- [Assignment 0 Git](https://github.com/CodersCampus/Assignment0Template)\
-\- [Assignment 0 Flex](https://github.com/CodersCampus/Assignment0_b_flex_Template)
+\- [Cracking the Behavioral Interview for Software Developers](https://youtu.be/ld0cvWnrVsU?si=UWwKzOl61vE9U04Z)  (IMO: very important, oft forgotten)
 
-\- [Eclipse Key Shortcuts (for both Mac and Windows)](https://www.jrebel.com/sites/rebel/files/pdfs/cheat-sheet-rebel-eclipse-keyboard-shortcuts.pdf)
+\- [Tech Recruiter Interview Tips for Software Engineers](https://youtu.be/PsdevwmosGA?si=amrS53pnQRe9Vi4x)
 
-\- [OOP test instructions](https://docs.google.com/document/d/1Cacbeccqqphkw8RiqGSWZmYaHIhCBqaX10HUNZOOBBM/edit?usp=sharing)\
-\- [CC Bootcamp Drills](https://github.com/CodersCampus/ccBootCampDrills)\
-\- [Assignment 3 Flowchart](https://docs.google.com/document/d/1mhJaA0ORq42FHd2JQ85VBeIarrjyv62KKBvhvRMV7BA/edit?usp=sharing)
+\- [How to ACE your Tech Recruiter Phone Screen Interview (What is a phone screen?)](https://youtu.be/niOj6Ag_x1U?si=q6h7yi-PCDmnDBap)
 
-\- [CC bootcamp swag](https://coders-campus.myshopify.com/)
+\- [Phone interview with a recruiter](https://youtu.be/TFKJ5I4VLjc?si=haT5JRGAS6erxmAj)
+
+-[Full Stack Development Mock Interview | Interview Questions for Senior Full Stack Developers](https://youtu.be/Z-_zdiKIY-Y?si=Awy4gD3J5zznaYpp)
