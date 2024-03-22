@@ -1,7 +1,8 @@
 # Coding support FAQ
 
 
-- [Package & Class Organization/Structure](../item/CLASS_ORGANZIATION.md)
+
+- [Project/package/Class organization](../item/CLASS_AND_PACKAGE_ORGANIZATION.md)
 - [Loops & Conditional Statements](../item/LOOPS_&_CONDITIONAL_STATEMENTS.md)
 - [Interfaces_&_Abstract_Classes](../item/INTERFACES_ABSTRACT_CLASSES.md)
 - [Inheritance](../item/INHERITANCE.md)
@@ -11,7 +12,6 @@
 - [Streams](../item/STREAMS.md)
 - [Overriding and Overloading methods](../item/OVERRIDING_OVERLOADING.md)
 - [Array vs ArrayList](../item/ARRAYS_AND_ARRAYLIST.md)
-- [Project/package/Class organization](../item/CLASS_AND_PACKAGE_ORGANIZATION.md)
 - [What is a microservice?](../item/MICROSERVICES.md)
 
 PRACTICE!
