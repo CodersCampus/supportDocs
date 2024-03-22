@@ -22,7 +22,7 @@ There are other ways to network if, like me, you don't live in a tech dense area
 
    Some popular tech streamers on Twitch include:
 
-   [ThePrimeagen](https://www.twitch.tv/theprimeagen): Streams about JavaScript, TypeScript, and web development.
+   [ThePrimeagen](https://www.twitch.tv/theprimeagen): Streams about JavaScript, TypeScript, and web development. Also if you're all about serving up democracy, he steams himself playing Helldivers once in awhile as well.
 
    [Theo](https://m.twitch.tv/theo/home): Focuses on Python, machine learning, and data science.
 
