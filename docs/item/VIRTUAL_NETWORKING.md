@@ -1,6 +1,6 @@
 There are other ways to network if, like me, you don't live in a tech dense area. The following are things I've enjoyed doing/platforms I've had luck on, other than LinkedIn of course.
 
-1. \- [Meetup.com](http://meetup.com):
+\- [Meetup.com](http://meetup.com):
 
    Meetup.com is a popular platform for finding and attending local tech events, workshops, and conferences.Search for meetups related to your specific interests, such as Java, web development, or data science.Attending meetups allows you to connect with other developers, learn from expert speakers, and stay updated with the latest industry trends.Many meetups also provide opportunities for networking, job seeking, and collaborating on projects.
 
