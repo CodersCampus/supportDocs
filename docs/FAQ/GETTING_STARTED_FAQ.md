@@ -12,7 +12,7 @@
 - [How to start a project, shortcuts for VS code, helpful extension, linking your Git to VS](https://www.loom.com/share/f03bade9b560483ab1a003b7b82375b1?sid=dd5c17e5-9aa6-462f-ac40-7008bd584dc7)
 
 # Computer Setup
-- [Suggestions for setup, not mandatory, just helpful](../item/GOOD_COMPUTER_SET_UP.md)
+- [Suggestions for setup, not mandatory, just helpful](../item/GOOD_COMPUTER_SETUP.md)
 
 # Post assessment:
 - [POST ASSESSMENT FAQ & ANSWERS](../item/POST_ASSESSMENT_RECAP.md)
