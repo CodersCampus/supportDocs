@@ -12,4 +12,4 @@ YouTube videos of software engineer tech interviews/tips/questions (there are to
 
 \- [Phone interview with a recruiter](https://youtu.be/TFKJ5I4VLjc?si=haT5JRGAS6erxmAj)
 
--[Full Stack Development Mock Interview | Interview Questions for Senior Full Stack Developers](https://youtu.be/Z-_zdiKIY-Y?si=Awy4gD3J5zznaYpp)
+- [Full Stack Development Mock Interview | Interview Questions for Senior Full Stack Developers](https://youtu.be/Z-_zdiKIY-Y?si=Awy4gD3J5zznaYpp)
