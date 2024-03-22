@@ -1,5 +1,5 @@
 YouTube videos of software engineer tech interviews/tips/questions (there are tons, but I liked these ones):\
-\* I’ll be adding more!\
+\* I’ll be adding more!
 - [Software Engineering Job Interview – Full Mock Interview](https://youtu.be/1qw5ITr3k9E?si=VA07dXKLQP3j8XCU)
 
 - [What to expect at your Junior Developer interview](https://youtu.be/cTatCDnvGBY?si=wFRGm7aYONyKV1VI)
