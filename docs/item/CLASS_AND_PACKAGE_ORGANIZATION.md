@@ -1,3 +1,15 @@
+Package and class organization is crucial in full stack development, it will save you time because you won't be hunting around for a random class, and it will be an expectation once you hit the job market! Everyone kind of struggles with this in the beginning, but hopefully this helps you a little bit.
+
+- [Good vid explanation of the basics](https://youtu.be/aw8MGOXUSXY?si=edbz_Ng6yeIzeq9k) Also this dude seems very cool, and has killer riffs as his intro music, 5 stars.
+
+- [Another good YouTube](https://youtu.be/DoK3-9V5HRE?si=9Zr78H_pKWxO-Hb4) from one of my faves, Amigos Code.
+- 
+
+*Some of the stuff the mention in the videos, like "DAO" I try to cover below. 
+*In the second video he talks about Maven and Spring, both of which you will learn about in full stack. He also talks about [microservices](../item/MICROSERVICES.md)
+
+
+
 1. Package Naming:
 
    - Packages are like folders that help organize related classes together.
