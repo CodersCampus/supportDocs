@@ -28,15 +28,21 @@ There are other ways to network if, like me, you don't live in a tech dense area
 
    [Coding Garden with CJ](https://www.twitch.tv/codinggarden): Streams about various web development technologies.
 
+****
+
    Online Communities and Forums:
 
    -Platforms like [Reddit](https://www.reddit.com/) have subreddits dedicated to programming, such as r/learnprogramming, r/webdev, and r/java,even a r/codingbootcamp!  where developers share knowledge and engage in discussions.
 
    -[Stack Overflow](https://stackoverflow.com/) is a popular Q\&A platform where developers can ask questions, provide answers, and learn from the community.Other online communities include [Dev.to](http://dev.to), [Hashnode](https://hashnode.com/), and [freeCodeCamp Forum](https://forum.freecodecamp.org/), which provide platforms for developers to write articles, share ideas, and connect with peers.
 
+****
+
    -Open Source Contributions:
 
    Explore and contribute to open source projects on platforms like GitHub.Contributing to open source allows you to collaborate with other developers, learn from code reviews, and build your portfolio.  You can start by finding beginner-friendly issues or projects that align with your skills and interests. Open source contributions not only enhance your technical skills but also provide opportunities for networking and building connections with maintainers and other contributors.
+
+****
 
    -Tech Conferences and Workshops:
 
