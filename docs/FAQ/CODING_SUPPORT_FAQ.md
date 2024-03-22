@@ -11,6 +11,8 @@
 - [Streams](../item/STREAMS.md)
 - [Overriding and Overloading methods](../item/OVERRIDING_OVERLOADING.md)
 - [Array vs ArrayList](../item/ARRAYS_AND_ARRAYLIST.md)
+- [Project/package/Class organization](../item/CLASS_AND_PACKAGE_ORGANIZAION.md)
+- [What is a microservice?](../item/MICROSERVICES.md)
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
