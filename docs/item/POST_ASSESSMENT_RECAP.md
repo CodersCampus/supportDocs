@@ -15,7 +15,7 @@ There is **no flexibility in your onboarding attendance**. Period, the end.
 
 **What is onboarding exactly?**
 
-Pete Carapetyan (our lead instructor) and Karen Dillehay (Software Engineer for Student
+Pete Carapetyan (our lead instructor) and Miriam Law (Software Engineer for Student
 
 Support) lead onboarding, we will go over how to structure your day of coding, how to tackle
 
