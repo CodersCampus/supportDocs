@@ -13,6 +13,7 @@
 - [Overriding and Overloading methods](../item/OVERRIDING_OVERLOADING.md)
 - [Array vs ArrayList](../item/ARRAYS_AND_ARRAYLIST.md)
 - [What is a microservice?](../item/MICROSERVICES.md)
+- [Tips from Alex Mamolo](/Users/miriamlaw/git/StudentSupportRole/ITEM/TIPS_FROM_ALEX_MAMOLO)
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
