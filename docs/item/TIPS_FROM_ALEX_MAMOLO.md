@@ -27,7 +27,7 @@ For direct access to these exercises and to start enhancing your Java skills, vi
 
 Leverage these exercises to solidify your understanding and pave the way for success in Assignment 3 and beyond.
 
-## YouTube: (https://youtu.be/GlbLbRR77vc)
+## [YouTube](https://youtu.be/GlbLbRR77vc)
 -[Start here for why she repeated assignments 2-4 until she really *got it*](https://youtu.be/GlbLbRR77vc?feature=shared&t=111)
 
 -[Start here for how she felt about backtracking to assignment 2-4](https://youtu.be/GlbLbRR77vc?feature=shared&t=295)
