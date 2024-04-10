@@ -6,7 +6,6 @@
 This [whole Practice Beginner Stuff repo](https://github.com/amamolo9986/Practice-BeginnerStuff.git) could be helpful before Assignment 3, or see deeper explanation below.
 
 2. 
-
 If you want the "best tips ever" on how to get through the hard part of foundations, you really need to skip the TL;DR and instead scan through the helpful links at the bottom of this page.
 
 Else, [here is her Final Project presentation which has a ton of great tips sprinkled throughout](https://youtu.be/GlbLbRR77vc)
