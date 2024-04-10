@@ -8,7 +8,7 @@ These could be helpful before Assignment 3.
 
 There's a ton of tips included in her final project presentation. See below for *start here* timestamps.
 
-[YouTube Final](https://youtu.be/GlbLbRR77vc)
+[YouTube](https://youtu.be/GlbLbRR77vc)
 
 ## Helpful Leading Up to Assignment 3
 
