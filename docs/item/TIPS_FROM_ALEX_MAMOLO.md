@@ -1,8 +1,16 @@
-# Creating the revised Markdown content as a .md file
+# Tips from Alex Mamolo
 
-md_content = """# Tips from Alex Mamolo
+## TL;DR: 
 
-### Helpful Leading Up to Assignment 3
+These could be helpful before Assignment 3.
+
+[Practice Beginner Stuff](https://github.com/amamolo9986/Practice-BeginnerStuff.git)
+
+Here's a ton of tips included in her final project presentation. See below for *start here* timestamps.
+
+YouTube: (https://youtu.be/GlbLbRR77vc)
+
+## Helpful Leading Up to Assignment 3
 
 Alex Mamolo shares a collection of beginner exercise examples that are invaluable for understanding core Java concepts. These exercises are designed to bridge the gap towards mastering Assignment 3 by focusing on practical application and understanding.
 
@@ -18,11 +26,29 @@ For direct access to these exercises and to start enhancing your Java skills, vi
 [Practice Beginner Stuff](https://github.com/amamolo9986/Practice-BeginnerStuff.git)
 
 Leverage these exercises to solidify your understanding and pave the way for success in Assignment 3 and beyond.
-"""
 
-# Saving to a .md file
-file_path = "/mnt/data/Tips_From_Alex_Mamolo.md"
-with open(file_path, "w") as file:
-    file.write(md_content)
+## YouTube: (https://youtu.be/GlbLbRR77vc)
+-Start here for why she repeated assignments 2-4 until she really *got it*: 
+(https://youtu.be/GlbLbRR77vc?feature=shared&t=111)
 
-file_path
+-Start here for how she felt about backtracking to assignment 2-4: 
+(https://youtu.be/GlbLbRR77vc?feature=shared&t=295)
+
+-Start here for how long it took her to build her final vs. how long it took to do assignment 3: (https://youtu.be/GlbLbRR77vc?feature=shared&t=1321)
+
+-Start here for her explaining why she thinks the first half of the bootcamp is harder: (https://youtu.be/GlbLbRR77vc?feature=shared&t=1355)
+
+-Start here for how mac FreeForm helped her organize her final project: (https://youtu.be/GlbLbRR77vc?feature=shared&t=1526)
+
+-Start here for her *deliberate process* with coursework, not downloading the code Trevor has available, rather taking notes and coding every single line along with the videos. Also she saved every single thing in her IDE to reference *or use* as she progressed: (https://youtu.be/GlbLbRR77vc?feature=shared&t=2010)
+
+-Start here for how she took different exercises from the coursework and did them again from scratch with her own variables to increase her learning around methods and constructors: (https://youtu.be/GlbLbRR77vc?feature=shared&t=2440)
+
+-Start here for how Pete figured out to create the Drills for repetition -> muscle memory: (https://youtu.be/GlbLbRR77vc?feature=shared&t=2605)
+
+-Start here for how she handled the perenial question "Do I have the ability to become a coder". Hint: quitting was not an option: (https://youtu.be/GlbLbRR77vc?feature=shared&t=2903)
+
+-Start here for how a buddy can help -> **find a buddy that you can hate this with**:
+(https://youtu.be/GlbLbRR77vc?feature=shared&t=3108)
+
+-Start here for the fortune cookie she framed to remind her of her dedication: *Check an item off your to-do list and prove that you can follow through*: (https://youtu.be/GlbLbRR77vc?feature=shared&t=3194)
