@@ -51,7 +51,9 @@ Below is a sampling of some of those most helfpul tips.
 
 - [Start here for how she handled the perenial question "Do I have the ability to become a coder". Hint: quitting was not an option](https://youtu.be/GlbLbRR77vc?feature=shared&t=2903)
 
-- [Start here for how a buddy can help -> **find a buddy that you can hate this with**](https://youtu.be/GlbLbRR77vc?feature=shared&t=3108)
+- Start here for how a buddy can help -> **find a buddy that you can hate this with**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=-pS94LOPlNkrjALO&amp;start=3108" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Start here for the fortune cookie she framed to remind her of her dedication: *Check an item off your to-do list and prove that you can follow through*
 
