@@ -33,23 +33,41 @@ Alex's Final Project presentation was great, but when the questions started roll
 
 Below is a sampling of some of those most helfpul tips.
 
-- [Start here for *why she repeated assignments 2-4 until she really got it*](https://youtu.be/GlbLbRR77vc?feature=shared&t=111)
+- Start here for *why she repeated assignments 2-4 until she really got it*
 
-- [Start here for *how she felt about backtracking to assignment 2-4*](https://youtu.be/GlbLbRR77vc?feature=shared&t=295)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=r4SJH2TvcwH9n8G-&amp;start=111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- [Start here for *how long it took her to build her final vs. how long it took to do assignment 3*](https://youtu.be/GlbLbRR77vc?feature=shared&t=1321)
+- Start here for *how she felt about backtracking to assignment 2-4*
 
-- [Start here for her explaining *why she thinks the first half of the bootcamp is harder*](https://youtu.be/GlbLbRR77vc?feature=shared&t=1355)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=axGdox_TNRyF2cHX&amp;start=295" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- [Start here for how mac FreeForm helped her *organize her final project*](https://youtu.be/GlbLbRR77vc?feature=shared&t=1526)
+- Start here for *how long it took her to build her final vs. how long it took to do assignment 3*
 
-- [Start here for her *deliberate process* with coursework, not downloading the code Trevor has available, rather taking notes and coding every single line along with the videos. Also she saved every single thing in her IDE to reference *or use* as she progressed](https://youtu.be/GlbLbRR77vc?feature=shared&t=2010)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=Ua_RM1nI-SyEeG3T&amp;start=1321" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- [Start here for how she took different exercises from the coursework and did them again from scratch with her own variables to increase her learning around methods and constructors](https://youtu.be/GlbLbRR77vc?feature=shared&t=2440)
+- Start here for her explaining *why she thinks the first half of the bootcamp is harder*
 
-- [Start here for how Pete figured out to create the Drills for repetition -> muscle memory](https://youtu.be/GlbLbRR77vc?feature=shared&t=2605)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=BuzCtUUV37RNjuJk&amp;start=1355" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- [Start here for how she handled the perenial question "Do I have the ability to become a coder". Hint: quitting was not an option](https://youtu.be/GlbLbRR77vc?feature=shared&t=2903)
+- Start here for how mac FreeForm helped her *organize her final project*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=vE1sg-Psyz1gC4iQ&amp;start=1526" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Start here for her *deliberate process* with coursework, not downloading the code Trevor has available, rather taking notes and coding every single line along with the videos. Also she saved every single thing in her IDE to reference *or use* as she progressed
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=AsdM_atidT77eMMR&amp;start=2011" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Start here for how she took different exercises from the coursework and did them again from scratch with her own variables to increase her learning around methods and constructors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=R4f5_7oFWRlPvmUJ&amp;start=2440" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Start here for how Pete figured out to create the Drills for repetition -> muscle memory
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=dxP-_uzcpkKPuGHb&amp;start=2602" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Start here for how she handled the perenial question "Do I have the ability to become a coder". Hint: quitting was not an option
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbLbRR77vc?si=Va7J4xttXnnVuRYL&amp;start=2895" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Start here for how a buddy can help -> **find a buddy that you can hate this with**
 
