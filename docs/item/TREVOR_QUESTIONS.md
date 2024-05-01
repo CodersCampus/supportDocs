@@ -28,3 +28,10 @@ Others are seed questions that could be asked, in you own words, of course.
 - I have noticed that several graduates have continued to create and publish additional projects, even after their Final Project. Is this necessary? Recommended?
 - Which stacks do you recommend learning, after learning those offered in the bootcamp?
 - How do you analyze which stacks provide the best opportunity in the marketplace?
+- After finishing programs what to continue with? More java? Other languages? Working on the pursuit of a job exclusively?
+- I have heard about Angular, should we learn more about that in our personal time?
+- Eclipse or Intellij?
+- Where to learn more about Docker?
+- Where to learn more about javascript? Preferred source?
+- What do you recommend for deployment of an app for either production or development or both. Railway? AWS? etc
+- 
