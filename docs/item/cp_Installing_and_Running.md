@@ -27,16 +27,14 @@
 <summary>What is GitHub?</summary>
 
 > - GitHub is a web-based platform used for version control and collaboration on software development projects.
-> - Think of it as a very cool online storage location where you can safely store your code to share with yourself or
-    others.
+> - Think of it as a very cool online storage location where you can safely store your code to share with yourself or others.
     >
-- You can have as many versions/iterations of your code as you'd like.
->  - In case you accidentally delete your code/project on your computer, it's good to have your code safely on GitHub,
-     so you can safely retrieve it whenever you like.
+- You can have as many versions/iterations of your code as you like.
+>  - In case you accidentally delete your code/project on your computer, it's good to have your code safely on GitHub, so you can safely retrieve it whenever you like.
 ---
 </details>
 
-1. Be given access to contribute too https://github.com/CodersCampus/cp, private repository via (Pete).
+1. Be given access to contribute to https://github.com/CodersCampus/cp, private repository via (Pete/Miriam).
 2. Click on green `<> Clone` button.
 3. Click `Open with GitHub Desktop`.
 4. Browser will display pop up window `Open GitHub Desktop.app?`.
@@ -47,8 +45,7 @@
 <details>
 <summary>What is GitHub Desktop?</summary>
 
-> - At the most basic level, GitHub Desktop is an application that allows us to grab projects from GitHub and store them
-    onto our computer.
+> - At the most basic level, GitHub Desktop is an application that allows us to grab projects from GitHub and store them onto our computer.
     >
 - GitHub Desktop handles a lot of technical features under the hood.
 ---
@@ -56,11 +53,9 @@
 
 6. In GitHub Desktop, **Clone a Repository** window opens to the **URL** tab.
 7. Keep the _**Repository URL or GitHub username and repository**_ field as is.
-8. You can keep the _**Local Path**_ as is or change it by pressing the `Choose` button and selecting a different
-   location in Finder/Explorer to store the cp repository.
+8. You can keep the _**Local Path**_ as is or change it by pressing the `Choose` button and selecting a different location in Finder/Explorer to store the cp repository.
 9. Next, click blue `Clone` button.
-10. **Current Repository** should be `cp`, **Current Branch** should be `dev`, and you'll have the option
-    to `Fetch origin`.
+10. **Current Repository** should be `cp`, **Current Branch** should be `dev`, and you'll have the option to `Fetch origin`.
 
 <img style="border-radius: 10px" width="550" alt="GitHub Desktop default" src="images/1_gitHubDesktop.png">
 
@@ -71,22 +66,19 @@
 
 > - cp, aka **coder packaging**, is our in house application that we are building out as a team.
     >
-- The app started with a handful of Coders Campus wanting to build an application that utilized what we were learning in
-  the course.
+- The app started with a handful of Coders Campus students wanting to build an application that utilized what we were learning in the course.
 >   - It is growing to become an application that the students are using daily to track their coding experience.
->   - From day one, this application is a teaching tool for students, designed to show us what the real world is like as
-      a Software Engineer.
+>   - From day one, this application is a teaching tool for students, designed to show us what the real world is like as a Software Engineer.
       >
-- We learn how to work as a team, disagree and communicate as a team, and build something bigger than ourselves
-  together.
+- We learn how to work as a team, disagree and communicate as a team, and build something bigger than ourselves together.
 ---
 </details>
 
 11. Now open **cp** repository
 12. If you are given the option in GitHub Desktop to `Open in Eclipse IDE...`, then click that button.
 
-> If you do not see `Open in Eclipse IDE...`, you have the option of clicking on "Preferences" and updating the
-> programming application you'd like to use.
+> If you do not see `Open in Eclipse IDE...`, you have the option of clicking on "Preferences" and updating the programming application you'd like to use.
+> 
 
 <img style="border-radius: 10px" width="550" alt="Open with Eclipse IDE" src="images/2_openWithEclipseIDE.png">
 
@@ -105,34 +97,29 @@
 - This is the programming application we'll use to code out our tasks, exercises and Assignments.
 >   - Eclipse IDE is one of a few applications we use to code in.
       >
-- We'd like you to get familiar with Eclipse IDE, before branching out to other platforms.
+- We'd like you to get familiar with Eclipse IDE, before branching out to other platforms, like IntelliJ.
 
 </details>
 
 14. Eclipse will open and give you the prompt window "**Import Projects from File System or Archive**".
-15. In the "**Import Source**" field, that should be left alone, as that's where you choose to store the **cp**
-    repository, earlier in GitHub Desktop.
+15. In the "**Import Source**" field, that should be left alone, as that's where you chose to store the **cp** repository, earlier in GitHub Desktop.
 16. Click bottom right button `Finish`.
-17. You may see "**Import as Maven project**", if you do, select **Maven**, as this is how you need to import this
-    project.
+17. You may see "**Import as Maven project**", if you do, select **Maven**, as this is how you need to import this project.
 18. **cp** should populate within the **Project Explorer** side panel of **Eclipse IDE**.
 
 ### 5. Run cp
 
-19. To run **cp** application you will traverse through the **cp** folder structure clicking the dropdown arrows as you
-    go.
+19. To run **cp** application you will traverse through the **cp** folder structure clicking the dropdown arrows as you go.
 
 - That path is, `cp/src/main/java/com.coderscampus/cpApplication.java`.
 - Open `CPApplication.java`.
-- Press the green `Run` button to run application or right click on main method of `CPApplication.java`, and
-  select `Run As` > `Java Application`.
+- Press the green `Run` button to run application or right click on main method of `CPApplication.java`, and select `Run As` > `Java Application`.
 
 20. You should see the **Spring Boot** design in the console with a bunch of other content.
 
 <img style="border-radius: 10px" width="600" alt="Running cp" src="images/4_runningCP.png">
 
-21. Now navigate to browser of choice, we use Chrome, and type into the address bar `localhost:8080`, this is the local
-    address the **cp** application is being served too.
+21. Now navigate to your browser of choice, we use Chrome, and type into the address bar `localhost:8080`, this is the local address the **cp** application is being served too.
 22. **cp** application should be live on your browser.
 23. If prompted to **Login**, then login to the application using a Gmail account.
 
@@ -140,7 +127,7 @@
 
 ### 📹 [Starting cp Instructional Video](https://youtu.be/N8m2b1AFvDo)
 
-_- If you have any questions please follow up the team at Coder Campus for assistance_
+_- If you have any questions please follow up with the team at Coder Campus for assistance_
 
 ---
 
@@ -160,8 +147,7 @@ To set up **cp** on your computer, follow these guidelines:
 #### GitHub Desktop Instructions
 
 1. Open **GitHub Desktop**
-2. Ensure the **Current Repository** is `cp`, if not click the **Current Repository** drop-down and select the `cp`
-   repository.
+2. Ensure the **Current Repository** is `cp`, if not click the **Current Repository** drop-down and select the `cp` repository.
 3. Ensure **Current Branch** is the `dev` branch.
 4. Click `Fetch origin`.
 5. If you see `Pull`, after pressing `Fetch origin`, then click `Pull`.
@@ -177,8 +163,7 @@ To set up **cp** on your computer, follow these guidelines:
 1. `cd` into **cp** project folder and type the following git commands into your Terminal/Git BASH
     - `git status` - provides info on the current state of the repo. Not required, just nice to info to have.
     - `git fetch` - retrieves the latest changes from a remote repository without merging them to the local branch.
-    - `git pull` - performs a `git fetch` to update local repository with changes from the remote, then performs
-      a `git merge` to merge any
+    - `git pull` - performs a `git fetch` to update local repository with changes from the remote, then performs a `git merge` to merge any
       changes fetched into the current branch.
 
 > _Performing a `git fetch` AND a `git pull` will mitigate potential issues, vs. just performing a `git pull`._
@@ -196,8 +181,7 @@ To set up **cp** on your computer, follow these guidelines:
 1. Navigate or open to **cp** application, inside of **Eclipse IDE**.
 2. Right click on root folder of **cp** and click **Refresh**.
 3. `[cp dev]` should appear to the right of your cp project.
-4. Navigate to [localhost:8080](http://localhost:8080/) in your browser of choice, we suggest Google Chrome, and ensure
-   it's running successfully.
+4. Navigate to [localhost:8080](http://localhost:8080/) in your browser of choice, we suggest Google Chrome, and ensure it's running successfully.
 
 <img style="border-radius: 10px" width="300" alt="GitHub Desktop screenshot instructions" src="images/7_eclipse.png">
 
@@ -215,8 +199,7 @@ To set up **cp** on your computer, follow these guidelines:
 
 1. Navigate or open the **cp** application, inside of **IntelliJ IDEA**.
 2. Ensure that you see the **dev** branch selected.
-3. Navigate to [localhost:8080](http://localhost:8080/) in your browser of choice, we suggest Google Chrome, and ensure
-   it's running successfully.
+3. Navigate to [localhost:8080](http://localhost:8080/) in your browser of choice, we suggest Google Chrome, and ensure it's running successfully.
 
 <img style="border-radius: 10px" width="300" alt="GitHub Desktop screenshot instructions" src="images/8_intelliJ.png">
 

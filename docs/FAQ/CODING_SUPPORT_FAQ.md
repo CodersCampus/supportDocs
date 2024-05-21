@@ -15,11 +15,12 @@
 - [What is a microservice?](../item/MICROSERVICES.md)
 - [Tips from Alex Mamolo](../item/TIPS_FROM_ALEX_MAMOLO.md)
 - [Snippets from Alex Mamolo](../item/SNIPPETS_FROM_ALEX_MAMOLO.md)
+- [Installing cp for FullStack](../item/CP_INSTALLING_AND_RUNNING.md)
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
 - [Scrimba](../item/SCRIMBA.md) is an interactive learning platform, lots of free courses and coding practice!
 - [Testing your knowledge!](../item/CODE_PRACTICE_PROBLEMS_SITE.md)
 - [How To Install And Run Drills](../item/HOW_TO_INSTALL_AND_RUN_DRILLS.md)
-- [CC Bootcamp Drills](https://github.com/CodersCampus/ccBootCampDrills)
+
 
