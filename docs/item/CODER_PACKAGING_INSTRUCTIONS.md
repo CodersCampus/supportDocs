@@ -6,7 +6,7 @@
 
 1. [Starting cp](#1-starting-cp)
 
-    - [Instructional Video: Starting cp](#-starting-cp-instructional-video)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N8m2b1AFvDo?si=OeAysqMClaRELlJx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2. [Setting Up cp](#2-setting-up-cp)
 
