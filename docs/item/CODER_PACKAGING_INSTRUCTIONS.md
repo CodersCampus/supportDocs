@@ -12,7 +12,7 @@
 
 ---
 
-## Must Have Before Getting Set-Up
+## Must Haves Before Getting Set-Up
 
 1. **Java JDK 17** in your IDE/IDEA. If you don't, the **cp** app will not run.
 2. Eclipse IDE users need **Eclipse 2021-09 (4.21)** or later. If you don't, please install a newer version.
@@ -57,7 +57,7 @@
 9. Next, click blue `Clone` button.
 10. **Current Repository** should be `cp`, **Current Branch** should be `dev`, and you'll have the option to `Fetch origin`.
 
-<img style="border-radius: 10px" width="550" alt="GitHub Desktop default" src="images/1_gitHubDesktop.png">
+<img style="border-radius: 10px" width="550" alt="GitHub Desktop default" src="../images/1_gitHubDesktop.png">
 
 ### 3. Opening cp
 
@@ -80,12 +80,12 @@
 > If you do not see `Open in Eclipse IDE...`, you have the option of clicking on "Preferences" and updating the programming application you'd like to use.
 > 
 
-<img style="border-radius: 10px" width="550" alt="Open with Eclipse IDE" src="images/2_openWithEclipseIDE.png">
+<img style="border-radius: 10px" width="550" alt="Open with Eclipse IDE" src="../images/2_openWithEclipseIDE.png">
 
 13. If you do not see that option, then open **Eclipse IDE** app, click
     on `File` > `Open Projects from File System...` > `Directory` > locate **cp** root folder, and click `Open`.
 
-<img style="border-radius: 10px" width="450" alt="cp root folder" src="images/3_cpRootFolder.png">
+<img style="border-radius: 10px" width="450" alt="cp root folder" src="../images/3_cpRootFolder.png">
 
 ### 4. Eclipse IDE
 
@@ -117,7 +117,7 @@
 
 20. You should see the **Spring Boot** design in the console with a bunch of other content.
 
-<img style="border-radius: 10px" width="600" alt="Running cp" src="images/4_runningCP.png">
+<img style="border-radius: 10px" width="600" alt="Running cp" src="../images/4_runningCP.png">
 
 21. Now navigate to your browser of choice, we use Chrome, and type into the address bar `localhost:8080`, this is the local address the **cp** application is being served too.
 22. **cp** application should be live on your browser.
@@ -154,7 +154,7 @@ To set up **cp** on your computer, follow these guidelines:
 6. Open IDE of choice
     - If using **Eclipse IDE**, right click root `cp` folder and click **Refresh** if it's not already on `dev` branch.
 
-<img style="border-radius: 10px" width="550" alt="GitHub Desktop screenshot instructions" src="images/5_runningWithGitHubDesktop.png">
+<img style="border-radius: 10px" width="550" alt="GitHub Desktop screenshot instructions" src="../images/5_runningWithGitHubDesktop.png">
 
 ---
 
@@ -168,7 +168,7 @@ To set up **cp** on your computer, follow these guidelines:
 
 > _Performing a `git fetch` AND a `git pull` will mitigate potential issues, vs. just performing a `git pull`._
 
-<img style="border-radius: 10px" width="450" alt="GitHub Desktop screenshot instructions" src="images/6_terminal.png">
+<img style="border-radius: 10px" width="450" alt="GitHub Desktop screenshot instructions" src="../images/6_terminal.png">
 
 2. Then open IDE of choice. Our go-to is **Eclipse IDE**.
 
@@ -183,7 +183,7 @@ To set up **cp** on your computer, follow these guidelines:
 3. `[cp dev]` should appear to the right of your cp project.
 4. Navigate to [localhost:8080](http://localhost:8080/) in your browser of choice, we suggest Google Chrome, and ensure it's running successfully.
 
-<img style="border-radius: 10px" width="300" alt="GitHub Desktop screenshot instructions" src="images/7_eclipse.png">
+<img style="border-radius: 10px" width="300" alt="GitHub Desktop screenshot instructions" src="../images/7_eclipse.png">
 
 > #### Eclipse Troubleshooting Steps
 > **Solution:**
@@ -201,7 +201,7 @@ To set up **cp** on your computer, follow these guidelines:
 2. Ensure that you see the **dev** branch selected.
 3. Navigate to [localhost:8080](http://localhost:8080/) in your browser of choice, we suggest Google Chrome, and ensure it's running successfully.
 
-<img style="border-radius: 10px" width="300" alt="GitHub Desktop screenshot instructions" src="images/8_intelliJ.png">
+<img style="border-radius: 10px" width="300" alt="GitHub Desktop screenshot instructions" src="../images/8_intelliJ.png">
 
 ---
 
