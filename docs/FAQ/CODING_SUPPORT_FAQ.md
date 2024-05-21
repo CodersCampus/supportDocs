@@ -15,7 +15,7 @@
 - [What is a microservice?](../item/MICROSERVICES.md)
 - [Tips from Alex Mamolo](../item/TIPS_FROM_ALEX_MAMOLO.md)
 - [Snippets from Alex Mamolo](../item/SNIPPETS_FROM_ALEX_MAMOLO.md)
-- [Installing cp for FullStack](../item/CP_INSTALLING_AND_RUNNING.md)
+- [Installing cp for FullStack](../item/CODER_PACKAGING_INSTRUCTIONS.md)
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
