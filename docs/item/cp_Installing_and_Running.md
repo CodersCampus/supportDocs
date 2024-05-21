@@ -12,7 +12,7 @@
 
 ---
 
-## Must Have's Before Getting Set-Up
+## Must Have Before Getting Set-Up
 
 1. **Java JDK 17** in your IDE/IDEA. If you don't, the **cp** app will not run.
 2. Eclipse IDE users need **Eclipse 2021-09 (4.21)** or later. If you don't, please install a newer version.
