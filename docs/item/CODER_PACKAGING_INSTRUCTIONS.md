@@ -125,7 +125,9 @@
 
 ---
 
-### 📹 [Starting cp Instructional Video](https://youtu.be/N8m2b1AFvDo)
+### 📹 [Starting cp Instructional Video]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N8m2b1AFvDo?si=jUoKJssDZhzM_sRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _- If you have any questions please follow up with the team at Coder Campus for assistance_
 
