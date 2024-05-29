@@ -1,4 +1,4 @@
-#On completion of A0(Git)
+# On completion of A0(Git)
 
 Relative Pathing Basics:
 Understanding how to use relative paths is crucial for navigating files and directories in web development. A relative path refers to a location that is relative to the current directory or file, rather than a fixed (absolute) location.

@@ -6,5 +6,7 @@
 
 ## Access to Slack channels
 
-## Access to calendar and plan for meeting attendance 
+## Access to calendar 
+
+## Plan for meeting attendance 
 
