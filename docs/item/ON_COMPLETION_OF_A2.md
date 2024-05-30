@@ -9,9 +9,15 @@
 ## Eclipse or IntelliJ
 
 ## keyboard shortcuts 
-You hopefully already know cntrl + c (copy), cntrl + v (paste), cntrl + z (undo)
-(on mac cmd + c, cmd + v, cmd + z)
+You hopefully already know:
 
+Windows:
+ cntrl + c (copy), cntrl + v (paste), cntrl + z (undo)
+
+Mac:
+cmd + c, cmd + v, cmd + z
+
+And by now you constantly utilize:
 Eclipse keyboard commands: 
 - cntrl + space (code completion)
 - cntrl + / (comment out/uncomment)

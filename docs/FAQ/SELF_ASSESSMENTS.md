@@ -12,3 +12,5 @@
 - [The review process](../item/THE_REVIEW_PROCESS.md)
 
 - [David Roberts](../item/DAVID_ROBERTS.md)
+
+- [Keyboard commands Eclipse](../item/KEYBOARD_COMMANDS_ECLIPSE.md)
