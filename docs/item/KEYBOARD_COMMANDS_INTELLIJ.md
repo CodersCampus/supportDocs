@@ -1,4 +1,4 @@
-# Keyboard Commands for IntelliJ 
+# Keyboard Commands for IntelliJ IDEA
 
 #### For macOS:
 
