@@ -21,6 +21,10 @@ Eclipse:
 
 - **Format Code:** `Cmd + Shift + F`
 
+- **Save: `Cmd + S` (on mac)
+
+- **Save: `Cntrl + S` (on windows)
+
 IntelliJ:
 
 - **Reformat Code:** `Cmd + Option + L`
