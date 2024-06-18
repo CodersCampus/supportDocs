@@ -14,3 +14,5 @@
 - [David Roberts](../item/DAVID_ROBERTS.md)
 
 - [Keyboard commands Eclipse](../item/KEYBOARD_COMMANDS_ECLIPSE.md)
+
+- [Keyboard commands IntelliJ](../item/KEYBOARD_COMMANDS_INTELLIJ.md)
