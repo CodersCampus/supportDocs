@@ -4,6 +4,8 @@
 - [How to turn in assignments](../item/HOW_TO_TURN_IN_ASSIGNMENTS.md)
 - [Slack channels and checkins](../item/SLACK_CHANNELS_AND_CHECKINs.md)
 - [What if I get stuck?](../item/WHAT_DO_I_DO_IF_IM_STUCK.md)
+- [How-to process for Github/Github Desktop](../item/HOW_TO_GITHUB.md)
+- [How-to process for Github BEFORE learning Maven](../item/HOW_TO_GITHUB_PRE-MAVEN.MD)
 
 - Do the two below assignments, one on flex, one on git, they are both about 15-30 min, and will save you a TON of headache in the future.
 - [Assignment 0 Flex](https://github.com/CodersCampus/Assignment0_b_flex_Template)
