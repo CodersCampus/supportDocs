@@ -15,10 +15,15 @@ There is also a corollary to the rule.
 Don't go too far in the other direction, either.
 We have some VERY stubborn students who will work for weeks on a problem before seeking help. No, really, I'm not kidding.
 Don't be that guy. Once you hit the limit and maybe go a little further ...
-commit your code to github! Please no screen shots.
+commit your code to github! 
+
+Please no screen shots.
 Describe exactly where in what line of what file you are not seeing the result that you expect, and why.
+
 Publish your github repo IN ONLY one place on slack - don't spam more than one place or person if you don't want a bad reputation as a spammer.
-Wait an amount of time that is reasonable. Your emotions may be out of control at this point, but don't forget other people have lives and emotions too.
+Wait an amount of time that is reasonable. 
+
+Your emotions may be out of control at this point, but don't forget other people have lives and emotions too.
 
 ## What are some good resources during this 4 hours you are stuck?
 
