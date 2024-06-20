@@ -46,3 +46,6 @@
 - coding - debugging browser
 - coding - business only browser user
 - coding - computer capacity management
+
+did I cover the part about 
+- 
