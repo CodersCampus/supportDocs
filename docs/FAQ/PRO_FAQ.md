@@ -1,21 +1,10 @@
-## Professionalism Overall:
-[Professionalism Overall/All Pro, All the time](../item/PRO_OVERALL_ALLPRO.md)
 
-[Professionalism Overall/Mathmatical Formula](../item/PRO_OVERALL_MATH.md)
 
-[Professionalism Overall//Friends & Mentors](../item/PRO_OVERALL_FRIENDS.md)
+[All Pro, All the time](../item/PRO_OVERALL_ALLPRO.md)
 
-[Professionalism Overall/Demo Champions](../item/PRO_OVERALL_DEMO_CHAMPS.md)
+[Professionalism Overall - a Mathmatical Formula](../item/PRO_OVERALL_MATH.md)
 
-## Professionalism Hierarchical:
-
-[Professionalism Hierarchical/Responsiveness At All Times](../item/PRO_HIERARCHICAL_RESPONSIVE.md)
-
-[Professionalism Hierarchical/Rank-Based Behavior](../item/PRO_HIERARCHICAL_RANK_BASED.md)
-
-[Professionalism Hierarchical/Team & Leadership-Based Deference](../item/PRO_HIERARCHICAL_TEAM_LEADERSHIP.md)
-
-## Professionalism Assistance:
+## Professionalism & Assistance Strategies:
 [Professionalism Assistance/4-Hour-Rule](../item/PRO_ASSISTANCE_4_HOUR_RULE.md)
 
 [Professionalism Assistance/Compile Standards](../item/PRO_ASSISTANCE_COMPILE_STANDARDS.md)
@@ -34,7 +23,7 @@
 
 [Professionalism Assistance/Other](../item/PRO_ASSISTANCE_OTHER.md)
 
-## Professionalism Team:
+## Professionalism & Team Strategies:
 
 [Professionalism Team/Participation Record](../item/PRO_TEAM_PARTICIPATION_RECORD.md)
 
@@ -68,6 +57,20 @@
 
 [Professionalism Team/Boundaries & Playfulness](../item/PRO_TEAM_BOUNDARIES_AND_PLAYFULNESS.md)
 
+## Professionalism, Overall:
+
+[Professionalism Overall//Friends & Mentors](../item/PRO_OVERALL_FRIENDS.md)
+
+[Professionalism Overall/Demo Champions](../item/PRO_OVERALL_DEMO_CHAMPS.md)
+
+## Professionalism & Hierarchical Requirements:
+
+[Professionalism Hierarchical/Responsiveness At All Times](../item/PRO_HIERARCHICAL_RESPONSIVE.md)
+
+[Professionalism Hierarchical/Rank-Based Behavior](../item/PRO_HIERARCHICAL_RANK_BASED.md)
+
+[Professionalism Hierarchical/Team & Leadership-Based Deference](../item/PRO_HIERARCHICAL_TEAM_LEADERSHIP.md)
+<!-- 
 ## Professionalism Points:
 
 [Professionalism Points/Making A Game Out of Pain](../item/PRO_POINTS_GAME_FROM_PAIN.md)
@@ -103,4 +106,4 @@
 [Professionalism Coding/Business Only Browser User](../item/PRO_CODING_BUSINESS_ONLY_BROWSER_USER.md)
 
 [Professionalism Coding/Computer Capacity Management](../item/PRO_CODING_COMPUTER_CAPACITY_MGMT.MD)
-
+ -->
