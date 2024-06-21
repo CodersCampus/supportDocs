@@ -1,8 +1,9 @@
 
+# PROFESSIONALISM IN THIS BOOTCAMP 
 
 [All Pro, All the time](../item/PRO_OVERALL_ALLPRO.md)
 
-[Professionalism Overall - a Mathmatical Formula](../item/PRO_OVERALL_MATH.md)
+[Professionalism Overall - a Mathematical Formula](../item/PRO_OVERALL_MATH.md)
 
 ## Professionalism & Assistance Strategies:
 [Professionalism Assistance/4-Hour-Rule](../item/PRO_ASSISTANCE_4_HOUR_RULE.md)
