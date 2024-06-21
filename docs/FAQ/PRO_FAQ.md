@@ -9,7 +9,7 @@
 
 ## Professionalism Hierarchical:
 
-[Professionalism Hierarchical/Responsiveness At All Times](../item/PRO_HIERARCHICAL_RANK_BASED.md)
+[Professionalism Hierarchical/Responsiveness At All Times](../item/PRO_HIERARCHICAL_RESPONSIVE.md)
 
 [Professionalism Hierarchical/Rank-Based Behavior](../item/PRO_HIERARCHICAL_RANK_BASED.md)
 
