@@ -26,4 +26,4 @@ Professionals are responsive. That's why they are paid well, that's why they are
 
 It is OK for professionals to feel slightly resentful of the responsibilities that come with the good fortune of having a profession. That's why they sometimes mock their own paychecks as Golden Handcuffs.
 
-The flip side is, some don't have a profession to be resentful about.
+Could be worse. Some don't have a profession to be resentful about.
