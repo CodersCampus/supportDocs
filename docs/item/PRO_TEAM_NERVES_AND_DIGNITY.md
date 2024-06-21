@@ -16,4 +16,4 @@ This is possibly the best understanding of the proper attitude to take towards n
 
 As you will see, a good dignified presence will always help you with your nerves.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o2lWTorIAQw?si=0ZVaC_fU35JwuEnd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/o2lWTorIAQw?si=oqkLGZKSv9Rk7c-r
