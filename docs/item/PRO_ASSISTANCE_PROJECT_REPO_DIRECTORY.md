@@ -4,6 +4,10 @@ Theoretically, if your project is strictly private, then it is your own business
 
 This does not apply, if you are asking others for assistance.
 
+As soon as you ask others for help or turn in an assignment, your sloppy project structure is _**other people's**_ problem. This creates a professional liability for you, because in addition to wasting other people's time, it makes you appear non-professional.
+
+This is un-necessary and easy enough to fix, before it happens.
+
 ## The folder within a folder problem that happens to new git users
 
 There is a _**very common situation**_ that happens to new git users. The cause of this will not be discussed here, just the result.
