@@ -22,7 +22,7 @@ Here is what the directory tree looks like when this typically happens
 
 Please notice there are two Assignment1 folders. The inner folder is where the work is, the outer folder is the code repository.
 
-This works fine for the not-yet-professional student because he/she has VSCode opened to the inner folder. But then he/she pushes it up, shares the repository, and asks for assistance. This is where the problems start.
+This feels like it works fine for the not-yet-professional student because he/she has VSCode and or Eclipse or ... opened to the inner folder. But then he/she pushes it up, shares the repository, and asks for assistance. This is where the problems start.
 
 ## What the professional assisting the student sees:
 
