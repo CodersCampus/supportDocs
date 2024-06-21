@@ -36,3 +36,6 @@
 [Professionalism Coding/Business Only Browser User](../item/PRO_CODING_BUSINESS_ONLY_BROWSER_USER.md)
 
 [Professionalism Coding/Computer Capacity Management](../item/PRO_CODING_COMPUTER_CAPACITY_MGMT.MD)
+
+
+[Professionalism Team/Regulars vs. People Who Are Too Important](../item/PRO_TEAM_REGULARS_VS_OTHERS.md)

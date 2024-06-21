@@ -29,7 +29,6 @@
 
 [Professionalism Team/Matching Milliseconds](../item/PRO_TEAM_MATCHING_MILLISECONDS.md)
 
-[Professionalism Team/Regulars vs. People Who Are Too Important](../item/PRO_TEAM_REGULARS_VS_OTHERS.md)
 
 [Professionalism Team/Advanced Research Beyond Minimums](../item/PRO_TEAM_ADVANCED_RESEARCH.md)
 
