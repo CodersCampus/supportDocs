@@ -6,7 +6,7 @@ This does not apply, if you are asking others for assistance.
 
 ## The folder within a folder problem that happens to new git users
 
-There is a very common situation that happens to new git users. The cause of this will not be discussed here, just the result.
+There is a _**very common situation**_ that happens to new git users. The cause of this will not be discussed here, just the result.
 
 Here is what the directory tree looks like when this typically happens
 
@@ -59,7 +59,7 @@ Now, here is what it might look like after you fix it
 
 Please note that
 
-0. Backing up your folder (make a copy somewhere else) is a good idea if you are a rookie.
+0. Backing up your folder before you fix this (make a copy somewhere else) is a good idea if you are a rookie.
 0. If Eclipse is involved, you may have un-import first, then re-import after all this is done. 
 1. When done, all project files are in same configuration relative to each other
 2. There is no inner folder and outer folder any more
