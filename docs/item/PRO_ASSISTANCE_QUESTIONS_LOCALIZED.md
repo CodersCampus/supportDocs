@@ -14,7 +14,7 @@ If a pro can replicate your problem in seconds (not minutes) he/she will always 
 
 So your first objective is to make your problem super easy to replicate on their box, with their code.
 
-For example: If you tell me you have a problem getting xyz-repo's main method to run and send me a link, I can have that on my box and running in probably less than 60 seconds, once I have a link to the repo.
+For example: If you tell me you have a clearly identified problem with xyz-repo's main method, I can have that on my box and running in probably less than 60 seconds, once I have a link to the repo.
 
 ## Always mention exactly which file to look for the problem
 
