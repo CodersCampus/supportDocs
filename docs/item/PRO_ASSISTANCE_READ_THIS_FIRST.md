@@ -28,4 +28,4 @@ Before submitting your code for assistance from either a student or an instructo
 
 [Avoid a Repuation for Spamming](../item/PRO_ASSISTANCE_SPAMMING.md)
 
-[Misc](../item/PRO_ASSISTANCE_OTHER.md)
+[Where to Ask](../item/PRO_ASSISTANCE_WHERE.md)

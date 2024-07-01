@@ -25,7 +25,7 @@
 
 [Professionalism Assistance/Spamming](../item/PRO_ASSISTANCE_SPAMMING.md)
 
-[Professionalism Assistance/Other](../item/PRO_ASSISTANCE_OTHER.md)
+[Professionalism Assistance/Where](../item/PRO_ASSISTANCE_WHERE.md)
 
 ## Professionalism & Team Strategies:
 
