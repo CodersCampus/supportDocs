@@ -28,4 +28,4 @@ Yup. We get it.
 
 These are great reasons for you, for preferring to just send that screenshot. That's why you need to take the time now, to learn the basics. 
 
-Your question can wait, until you get it committed and pushed to github.
+Your question can wait, until you get your code committed and pushed to github.
