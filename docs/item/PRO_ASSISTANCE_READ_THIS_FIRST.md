@@ -10,7 +10,9 @@ Your reputation as a professional software developer is your most important asse
 
 ## Know Each, Follow Each
 
-Before submitting your code for assistance from either a student or an instructor, go over this whole checklist. Are there any you have not completed, first?
+Before submitting your code for assistance from either a student or an instructor, go over this whole checklist. 
+
+Anything below that you have not completed, before asking for others to assist you?
 
 [The 4-Hour-Rule](../item/PRO_ASSISTANCE_4_HOUR_RULE.md)
 
@@ -29,3 +31,8 @@ Before submitting your code for assistance from either a student or an instructo
 [Avoid a Repuation for Spamming](../item/PRO_ASSISTANCE_SPAMMING.md)
 
 [Where to Ask](../item/PRO_ASSISTANCE_WHERE.md)
+
+## If Any of This Checklist is Confusing
+
+Be sure to bring it up with your favorite instructors in foundations checkins, or in your own slack thread inside the `#instructor-guidance` channel.
+
