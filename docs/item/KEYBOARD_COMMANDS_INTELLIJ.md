@@ -1,6 +1,7 @@
 # Keyboard Commands for IntelliJ IDEA
 
 These are the basics you should already know:
+
 Windows:
  cntrl + c (copy), cntrl + v (paste), cntrl + z (undo), cntrl + x (cut), cntrl + s (save)
 
