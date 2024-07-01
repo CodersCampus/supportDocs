@@ -6,6 +6,9 @@
 [Professionalism Overall - a Mathematical Formula](../item/PRO_OVERALL_MATH.md)
 
 ## Professionalism & Assistance Strategies:
+
+[Read This First!](../item/PRO_ASSISTANCE_READ_THIS_FIRST.md) Please, protect your reputation as a professional.
+
 [Professionalism Assistance/4-Hour-Rule](../item/PRO_ASSISTANCE_4_HOUR_RULE.md)
 
 [Professionalism Assistance/Compile Standards](../item/PRO_ASSISTANCE_COMPILE_STANDARDS.md)
