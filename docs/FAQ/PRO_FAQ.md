@@ -62,7 +62,7 @@
 
 ## Professionalism, Overall:
 
-[Professionalism Overall//Friends & Mentors](../item/PRO_OVERALL_FRIENDS.md)
+[Professionalism Overall/Friends & Mentors](../item/PRO_OVERALL_FRIENDS.md)
 
 [Professionalism Overall/Demo Champions](../item/PRO_OVERALL_DEMO_CHAMPS.md)
 
