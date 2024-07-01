@@ -1,5 +1,12 @@
 # Keyboard commands for Eclipse
 
+These are the basics you should already know:
+Windows:
+ cntrl + c (copy), cntrl + v (paste), cntrl + z (undo), cntrl + x (cut), cntrl + s (save)
+
+Mac:
+cmd + c (copy), cmd + v (paste), cmd + z (undo), cmd + x (cut), cmd + s (save)
+
 #### For macOS:
 
 1. **General Navigation:**

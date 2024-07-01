@@ -10,10 +10,10 @@
 You hopefully already know:
 
 Windows:
- cntrl + c (copy), cntrl + v (paste), cntrl + z (undo)
+ cntrl + c (copy), cntrl + v (paste), cntrl + z (undo), cntrl + x (cut), cntrl + s (save)
 
 Mac:
-cmd + c, cmd + v, cmd + z
+cmd + c (copy), cmd + v (paste), cmd + z (undo), cmd + x (cut), cmd + s (save)
 
 And now make constant use of:
 
