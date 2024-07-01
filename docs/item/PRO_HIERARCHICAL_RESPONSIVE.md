@@ -6,7 +6,7 @@ How does that relate to your need to be responsive?
 
 ## You are expected to respond in a timely way to instructors.
 
-- Instructors are your surrogates for a superior, while you are here.
+- Instructors are your surrogates for a superior while you are here.
 - You are also expected to respond to administrative staff in a timely fashion.
 
 ## What does this mean, in practical terms?

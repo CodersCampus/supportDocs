@@ -2,9 +2,9 @@
 
 Professionals rarely stick to the rudimentary basics of their profession.
 
-Every professional will eventually wander into specializations that interest him.
+Every professional will eventually wander into specializations that interest him/her.
 
-In coding there are thousands of subspecialties. 
+In coding there are thousands of sub-specialties. 
 
 # What types of advanced topics interest you?
 

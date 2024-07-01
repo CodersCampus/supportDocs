@@ -2,11 +2,11 @@
 
 Theoretically, if your project is strictly private, then it is your own business what you do inside it.
 
-This does not apply, if you are asking others for assistance.
+This does not apply if you are asking others for assistance.
 
 As soon as you ask others for help or turn in an assignment, your sloppy project structure is _**other people's**_ problem. This creates a professional liability for you, because in addition to wasting other people's time, it makes you appear non-professional.
 
-This is un-necessary and easy enough to fix, before it happens.
+This is unnecessary and easy enough to fix before it happens.
 
 ## The folder within a folder problem that happens to new git users
 
@@ -34,7 +34,7 @@ The professional who has been asked to assist the student attempts to open the p
 
 If it's a java project being imported into Eclipse, it is quadruply confusing because Eclipse doesn't even know how to import a folder within a folder where the inner folder has the Eclipse metadata files.
 
-The assisting professional has to do a lot of extra work just to figure out what the problem is. By this time, the not-yet-professional student has all but destroyed his/her professinal reputation, at least for the moment. And all because he/she did not have his/her repository set up properly.
+The assisting professional has to do a lot of extra work just to figure out what the problem is. By this time the not-yet-professional student has all but destroyed his/her professinal reputation, at least for the moment. And all because he/she did not have his/her project/repository set up properly.
 
 ## Here is how to fix it.
 
@@ -64,12 +64,12 @@ Now, here is what it might look like after you fix it
 Please note that
 
 0. Backing up your folder before you fix this (make a copy somewhere else) is a good idea if you are a rookie.
-0. If Eclipse is involved, you may have un-import first, then re-import after all this is done. 
-1. When done, all project files are in same configuration relative to each other
-2. There is no inner folder and outer folder any more
-3. The files that were in the inner folder were moved to the outer folder
-4. What was the inner folder first became empty, then was deleted
-5. The repository folder and the project folder are now one and the same
+0. If Eclipse is involved, you may have to un-import first, then re-import after all this is done. 
+1. When done, all project files are in the same configuration relative to each other
+2. There is no inner folder and outer folder any more.
+3. The files that were in the inner folder were moved to the outer folder.
+4. What was the inner folder first became empty, then was deleted.
+5. The repository folder and the project folder are now one and the same.
 
 If this is confusing to you, get unconfused first!
 

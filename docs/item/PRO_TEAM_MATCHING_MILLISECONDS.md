@@ -2,7 +2,7 @@
 
 Professionals do a lot of repetitive tasks - of course we do, that's why we call it a profession or a specialization.
 
-With that much repetition, it is often possible for us to do things 10x, sometimes 100x faster than others. That's the good news.
+With that much repetition, it is often possible for us to do things 10x, sometimes 100x, faster than others. That's the good news.
 
 ## Is there bad news to being fast?
 
@@ -18,4 +18,4 @@ Yes, there is.
 
 Sometimes you have to be charming. Other times you just have to shut up and bear it. Even other times you have to tell them to get over themselves.
 
-Either way, it's their job to deal with it. You will pick up speed when you, just like they did.
+Either way, it's their job to deal with it. You will pick up speed when you do, just like they did.

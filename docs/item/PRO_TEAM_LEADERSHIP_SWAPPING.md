@@ -18,4 +18,4 @@ Any leader will tell you that it can be fun at times, but it can also be a pain 
 
 So you learn to swap responsibilities back and forth between other leaders.
 
-Learn to this as quickly as you can. Never take a leadership role unless theirs a matching leader or leaders to swap responsiblities back and forth with.
+Learn this as quickly as you can. Never take a leadership role unless there's a matching leader or leaders to swap responsiblities back and forth with.

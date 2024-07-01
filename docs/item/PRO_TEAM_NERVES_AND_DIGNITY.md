@@ -1,6 +1,6 @@
 # Team - Nerves and Dignity
 
-Professionals have issues with nerves - probably more than in work that is not thought of as a profession.
+Professionals have issues with nerves - probably moreso than in work that is not thought of as a profession.
 
 This is often why professions pay more - just because it causes so many people to have nerves, especially when learning the profession.
 

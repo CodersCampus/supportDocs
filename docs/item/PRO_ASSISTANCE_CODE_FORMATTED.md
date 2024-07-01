@@ -8,3 +8,6 @@ Perhaps more importantly for you, unformatted code is difficult for you yourself
 
 So professionals always use the IDE keystrokes on a reflexive basis to constantly reformat their code.
 
+[link to Eclipse IDE keystrokes](../item/KEYBOARD_COMMANDS_ECLIPSE.md)
+
+[link to IntelliJ IDE keystrokes](../item/KEYBOARD_COMMANDS_INTELLIJ.md)

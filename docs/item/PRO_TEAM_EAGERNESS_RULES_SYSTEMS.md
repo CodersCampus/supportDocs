@@ -4,13 +4,13 @@ Professionals, such as coders, are often governed by more rules and conventions 
 
 ## Your responsibilities in CodersCampus
 
-No-one is expected to know Conventions, Rules, and Systems coming into the bootcamp.
+Noone is expected to know Conventions, Rules, and Systems coming into the bootcamp.
 
 EVERY professional on graduation from this bootcamp is expected to have sought out and learned as many Conventions, Rules, and Systems as reasonable, over the period of time that he/she is a professional in this environment.
 
 ## Eagerness
 
-Nothing reference in this document will be forced on you. You must seek it all out from your own sense of eagerness. 
+Nothing referenced in this document will be forced on you. You must seek it all out from your own sense of eagerness. 
 
 Those who are not eager to learn these will simply not become top professionals. This is a sad fact of how professional careers are, and are not, built.
 
@@ -36,6 +36,6 @@ As a professional coder you are expected to know certain rules.
 
 Systems can be tools, platforms, setups, processes, anything. But professionals know them all as one thing - a way that they get their job done.
 
-As a professional at CodersCampus you are expected to learn and leverage systems such as git, the scrum process, languages and libraries, etc.
+As a professional at CodersCampus you are expected to learn and leverage systems such as git, the Agile Development environment, languages and libraries, etc.
 
 This is not something you will be spoon fed. Professionals seek these systems out because they need them.

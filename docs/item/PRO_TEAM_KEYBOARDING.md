@@ -28,3 +28,7 @@ If you want to see some really amazing keyboarding, come to plenty of checkins.
 If you want to suffer through some cringe-level keyboarding, come to plenty of checkins.
 
 Nothing will motivate you to be a better keyboarder than LiveCoding at checkins.
+
+[link to Eclipse keystrokes](../item/KEYBOARD_COMMANDS_ECLIPSE.md)
+
+[link to IntelliJ keystrokes](../item/KEYBOARD_COMMANDS_INTELLIJ.md)

@@ -14,11 +14,12 @@ Here is what really happens, if we look at this as professionals.
 - Another professional might be sharing from a desktop screen with resolution as high as 3840 x 2160
 - If the guy with 3840 wide screen
     - has good eyes 
-    - and thus 10pt text, 
-    - and shares and the guy who has bad eyes 
-    - and a 1920 wide screen, 
+    - and thus 10pt text 
+    - and shares 
+    - and the guy who has bad eyes 
+    - and a 1920 wide screen 
     - and then zoom eats some portion of the screen anyway
-    - then the guy with bad eyes viewing on the laptop is essentially reading 3 point text, with bad eyes.
+    - then the guy with bad eyes viewing on the laptop is essentially reading 3 point text with bad eyes.
     - Yeah, that doesn't work.
     - And the guy who is sharing jokes "heh, looks great on my screen."
 
@@ -36,7 +37,7 @@ This is a simple command in IntelliJ, for example. But it still isn't my favorit
 
 What i do is _**Always share a very small part of one screen, never a whole screen**_
 
-This has the advantage of working for every app, not just the your coding app. Then I fit each app into the appropriately sized zoom window, and I'm certain that I'm always courteous to every viewer. 
+This has the advantage of working for every app, not just your coding app. Fit each app into the appropriately sized zoom window, and come across as courteous to every viewer. 
 
 No fuss, no muss, no bother.
 
@@ -44,4 +45,4 @@ No fuss, no muss, no bother.
 
 1. Start your own zoom session with yourself
 2. Practice different ways of sharing your screen for 5-10 minutes
-3. You are now better prepared to share your screen with skill and courtesy.
+3. You are now better prepared to share your screen with skill and courtesy

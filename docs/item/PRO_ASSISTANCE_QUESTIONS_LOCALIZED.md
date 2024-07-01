@@ -1,10 +1,10 @@
 # Professionals Ask Specific Localized Questions
 
-The essence of this document is about making it super-easy to help you. Why? Because we are all professionals here, and learning to curry favor with other professionals is all about being that professional that is super-easy to help.
+The essence of this document is about making it super-easy to help you. Why? Because we are all professionals here, and learning to curry favor with other professionals is all about being the professional that is super-easy to help.
 
 The opposite? You may observe that humans, generally, tend to be very poor at mind-reading. 
 
-This can be a real problem for the would-be-professional who is looking for some code assistance, asking for help by submitting a code repository, with the generalized statement "This is where I need some help."
+This can be a real problem for the would-be-professional who is looking for some code assistance, asking for help by submitting a code repository with the generalized statement "I need some help."
 
 It happens more often than you might guess.
 

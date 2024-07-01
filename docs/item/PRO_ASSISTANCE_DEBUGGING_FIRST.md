@@ -6,6 +6,6 @@ Instructors will sometimes get requests for help, and then learn that the code h
 
 Sometimes the professional requesting help has not gained confidence with the debugger.
 
-As a fellow professional, you would probably mentor your friend to attend checkins more frequently and force the issue of learning the debugger better, in checkin coding sessions.
+As a fellow professional, you would probably mentor your friend to attend checkins more frequently, and force the issue of learning the debugger better in checkin coding sessions.
 
-Getting the reputation for asking for help from others, before first investing their own time in your professional debugging skills may be something a professional would wish to avoid.
+Getting the reputation for asking for help from others before first investing their own time in your professional debugging skills, may be something a professional would wish to avoid.
