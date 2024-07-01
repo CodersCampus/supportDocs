@@ -14,6 +14,8 @@ Before submitting your code for assistance from either a student or an instructo
 
 Anything below that you have not completed, before asking for others to assist you?
 
+[Code question must be a git repo, not a screenshot](../item/PRO_ASSISTANCE_NO_SCREEN_SHOTS.md)
+
 [The 4-Hour-Rule](../item/PRO_ASSISTANCE_4_HOUR_RULE.md)
 
 [Mandatory Compile Standards](../item/PRO_ASSISTANCE_COMPILE_STANDARDS.md)
