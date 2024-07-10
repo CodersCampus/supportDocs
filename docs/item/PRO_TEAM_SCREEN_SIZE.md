@@ -8,7 +8,7 @@ But ... it takes a little bit more skill to make it easy for the laptop on the r
 
 TL;DR: The 3 minute demo might be the easy way.
 
-yada
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2FkDfyuH9M?si=SIxibETaliMjtA9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Mathematical Explanation
 
