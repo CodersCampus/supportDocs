@@ -1,12 +1,16 @@
-# Team - Learning Zoom Courtesy Practicalities for Screen Sharing
+# Your Screen Share Might Look Unprofessional to a Laptop User
 
-Professionals don't often think of themselves as screen sharers. It's kind of a new thing.
+Anybody can share a screen, zoom makes that easy. Right? 
 
-Sure, we do it when we have to, but we don't think of it as part of our professional skill set.
+But ... it takes a little bit more skill to make it easy for the laptop on the receiving end, to read your screen.
 
-## Sharing a screen is a skill.
+## How to Make Your Screen Readable on Their Laptop?
 
-WUT? How could this be? I'm just sharing a screen. That is not a skill.
+TL;DR: The 3 minute demo might be the easy way.
+
+yada
+
+## The Mathematical Explanation
 
 Here is what really happens, if we look at this as professionals.
 
