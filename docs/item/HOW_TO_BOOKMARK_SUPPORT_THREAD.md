@@ -11,5 +11,5 @@
 <img style="border-radius: 10px" width="400" alt="GitHub Desktop default" src="../images/InstructorGuidanceSupportThread4.png">
 7. You will always be able to find your support thread AND click on this link to take you to that thread.
 <img style="border-radius: 10px" width="400" alt="GitHub Desktop default" src="../images/InstructorGuidanceSupportThread6.png">
-8. It will open to the thread BUT it is important to click inside the chat window where the replies are showing, on the righthand side of the window.
+8. It will open to the thread BUT it is important to click inside the chat window where the replies are showing, on the righthand side of the window, when communicating any new support needs or replies.
 <img style="border-radius: 10px" width="400" alt="GitHub Desktop default" src="../images/InstructorGuidanceSupportThread5.png">
