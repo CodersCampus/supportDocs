@@ -5,7 +5,11 @@
 - The reason this can be a big deal is because, if you remain behind, it heightens the chances of you not graduating within your contract time. If you have questions on your specific contract please reach out to Irish Morales on slack. 
 
 
-## Inactive Status & Work Log 
+## Inactive Status & Time Watch Status  
+
+- The best discipline is ALWAYS internal. A professional, guided by thier own high expectations of self, are 10x better equipped than any tool that collects data. 
+
+- But if you are behind, and the internal professional motivation isn't doing the trick, you're going to have to show us you are working on the courework in order to remain active. You will officially be in Time Watch status. The way you show us your progress and committment is with the Work Log below.
 
 [Click this link for the Work Log](https://punk-production.up.railway.app/work/create)
 
@@ -28,9 +32,9 @@ To regain your active status, you need to submit **Work Logs** to show progress.
 
 Regularly submitting your Work Log will demonstrate your commitment and help you transition back to active status.
 
-## Avoiding Inactive Status
+## Time Watch Status (Avoiding Inactive Status)
 
-If you are on the verge of becoming inactive, you can take steps to remain active:
+If you are on the verge of becoming inactive, you will be in Time Watch status. You can take steps to remain active:
 
 - **Read This Document**: Understand the expectations and requirements to maintain active status.
 - **Submit Work Logs Regularly**: Make it a habit to log and submit your work as frequently as you engage with the bootcamp materials. This shows continuous effort and engagement.
