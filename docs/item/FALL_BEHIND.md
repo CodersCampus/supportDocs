@@ -1,5 +1,56 @@
 # What happens if I fall behind?
 
+TL;DR:
+
+Main point is that, for the most part, students who fall behind can eventually run out of time by the end of their contract. Then they either have to work something out with CodersCampus to pay for extended support, or else finish on their own without support (something we have never seen before).
+
+We are still iterating on early warning systems to help you fix the problem as early as possible, for your own benefit.
+
+``` 
+Disclaimer: 
+
+This is a topic which has many more nuances, some legal and financial, than can be properly addressed in a brief support document. As a result, this document will only address a few issues, and of those, only from the perspective of an instructor. This is not a legal document, and does not affect your contract with CodersCampus, a lending institution, or any other point of view.
+```
+
+```
+Note:
+
+This document may not always reflect the latest iteration of our processes implemented on your behalf.
+```
+
+## Falling Behind as a Cascade of Consequences
+
+We have seen our best students fall behind and still have great outcomes, including a new coding career. But these are the rare exceptions.
+
+Here is a partial list of the cascade of consequences for falling behind, from first to last event:
+- You will begin receiving reports of being behind.
+- You will be asked to begin logging your time.
+- CodersCampus admins will be advised of your late status.
+- Specific thresholds will cause you to be removed from the #active-foundations channel in slack (or #active-fullstack).
+- When your contract period ends, you will be asked to pay a monthly fee for extended support.
+- If you decline to pay for extended support after your contract period ends, you will be finishing that portion of the coursework (assignments) that you can complete without support.
+- External financial arrangements are not affected.
+
+
+Since each of the above events can cause you lots of heart-burn and frustration, each of the above events is more carefully explained, below.
+
+## Reports Sent to Student
+
+## Student Asked to Log Time
+
+## Admins Advised of Status
+
+## Removal From Active Slack Channels
+
+## Contract Ends, Paid Extended Support
+
+## Paid Extended Support Declined
+
+## External Financial Side Not Affected
+
+## Contact Information
+
+
 - If you are only one or two assignments behind, the hard truth is you will probably have to spend more time grinding on your code to get caught up.
 
 - The reason this can be a big deal is because, if you remain behind, it heightens the chances of you not graduating within your contract time. If you have questions on your specific contract please reach out to Irish Morales on slack. 
