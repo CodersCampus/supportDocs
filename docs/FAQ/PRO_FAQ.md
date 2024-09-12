@@ -66,6 +66,8 @@
 
 [Professionalism Overall/Demo Champions](../item/PRO_OVERALL_DEMO_CHAMPS.md)
 
+[Professionalism Overall/Checkins](../item/PRO_OVERALL_CHECKIN.md) 
+
 ## Professionalism & Hierarchical Requirements:
 
 [Professionalism Hierarchical/Responsiveness At All Times](../item/PRO_HIERARCHICAL_RESPONSIVE.md)
