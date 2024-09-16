@@ -27,7 +27,7 @@ For direct access to these exercises and to start enhancing your Java skills, vi
 
 Leverage these exercises to solidify your understanding and pave the way for success in Assignment 3 and beyond.
 
-## [Alec's Final Project Presentation (includes tips)](https://youtu.be/GlbLbRR77vc)
+## [Alex's Final Project Presentation (includes tips)](https://youtu.be/GlbLbRR77vc)
 
 Alex's Final Project presentation was great, but when the questions started rolling in, she started answering a lot of them about _**how she got through the coursework**_, especially foundations.
 
