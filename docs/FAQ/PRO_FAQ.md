@@ -13,6 +13,8 @@
 
 [Professionalism Assistance/Compile Standards](../item/PRO_ASSISTANCE_COMPILE_STANDARDS.md)
 
+[Professionalism Assistance/GitIgnore](../item/PRO_ASSISTANCE_GIT_IGNORE.md)
+
 [Professionalism Assistance/Debugging First](../item/PRO_ASSISTANCE_DEBUGGING_FIRST.md)
 
 [Professionalism Assistance/Project Repository & Directory Structure Standards](../item/PRO_ASSISTANCE_PROJECT_REPO_DIRECTORY.md)
