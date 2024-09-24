@@ -76,3 +76,61 @@ If this is confusing to you, get unconfused first!
 Don't go and "fix it" thinking that you understand, then cry to someone for help because you acted before you thought things through, made a mess, and can't fix it any more.
 
 You are a professional. These are the types of problems that professionals are expected to solve completely on their own. Think of this as a self-test, and don't accept a failure.
+
+## Here is a step-by-step How-To guide to fix nested folders:
+
+To help fix the nested folder issue, here are step-by-step instructions you can follow to restructure your project repository and eliminate the unnecessary folder within a folder setup:
+
+### How to Fix Nested Folders (Folder within Folder Problem)
+
+#### 1. **Back Up Your Project** 
+   - Before making any changes, **back up** your project by copying the entire repository folder to a different location. This ensures you can recover your work if anything goes wrong.
+
+#### 2. **Identify the Nested Folders**
+   - In your project, you likely have a structure like this:
+     ```
+     └── Assignment1 (outer folder - repository)
+         └── Assignment1 (inner folder - project)
+             ├── css
+             │   └── style.css
+             ├── images
+             │   └── screenshot.png
+             └── my.html
+     ```
+
+#### 3. **Move Files from the Inner Folder to the Outer Folder**
+   - Open your repository folder in **File Explorer (Windows)** or **Finder (macOS)**.
+   - Navigate to the **inner folder** (`Assignment1` inside the outer `Assignment1`).
+   - Select all the files and folders from inside the inner folder (such as `css`, `images`, `my.html`), and **move** them up one level to the **outer folder**.
+
+#### 4. **Delete the Now-Empty Inner Folder**
+   - Once you’ve moved all files, the inner folder (`Assignment1` within `Assignment1`) will be empty.
+   - **Delete** the inner folder to ensure it no longer exists in your project structure.
+
+#### 5. **Ensure Folder Structure is Correct**
+   - After moving the files, your folder structure should now look like this:
+     ```
+     └── Assignment1 (repository folder)
+         ├── css
+         │   └── style.css
+         ├── images
+         │   └── screenshot.png
+         └── my.html
+     ```
+   - This means your **repository folder and project folder are the same**.
+
+#### 6. **Commit and Push Changes in GitHub Desktop**
+   - Open **GitHub Desktop** and navigate to your project repository.
+   - You will see the changes under the **Changes** tab (moving the files and deleting the inner folder).
+   - Enter a **commit message** (e.g., "Restructure project by removing nested folders").
+   - Click **Commit to master** (or the branch you’re working on).
+   - **Push** the changes to your remote repository by clicking **Push origin**.
+
+#### 7. **Re-import the Project into IDE (if necessary)**
+   - If you're using **Eclipse**, **VS Code**, or any other IDE, you may need to:
+     - **Un-import** the project from the IDE.
+     - Then **re-import** the project after you have fixed the folder structure.
+   - This ensures your IDE recognizes the updated project structure without confusion from the nested folders.
+
+### Additional Tips:
+- **Avoid creating a new nested folder when cloning a repository**: When cloning a repo, always specify the folder path where the repository should be placed, to avoid accidentally creating a nested directory.
