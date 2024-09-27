@@ -80,7 +80,7 @@ By following these steps, you ensure that your code remains in the correct repos
 
 
 
-# How NOT to Create a New Repository When Fixing Code After a Review and Use Command Line/Terminal/Shell
+# How NOT to Create a New Repository When Fixing Code After a Review Using Command Line/Terminal/Shell
 
 When working on fixing code following a review, it's crucial to avoid creating a new repository or a new project entirely. This guide explains how to make fixes in your existing project, push changes to the same remote repo, and what to do if you create a new project by mistake.
 
