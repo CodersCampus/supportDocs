@@ -13,6 +13,8 @@
 
 [Professionalism Assistance/Compile Standards](../item/PRO_ASSISTANCE_COMPILE_STANDARDS.md)
 
+[Professionalism Assistance/HOW_NOT_TO_CREATE_A_NEW_REPO_WHEN_FIXING_CODE.md](../item/PRO_ASSISTANCE_USE_SAME_REPO_FOR_CODE_FIXES.md)
+
 [Professionalism Assistance/GitIgnore](../item/PRO_ASSISTANCE_GITIGNORE.md)
 
 [Professionalism Assistance/Debugging First](../item/PRO_ASSISTANCE_DEBUGGING_FIRST.md)
