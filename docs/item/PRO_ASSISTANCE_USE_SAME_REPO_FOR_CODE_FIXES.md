@@ -88,9 +88,9 @@ By following these steps, you ensure that your code remains in the correct repos
 <br><br><br>
 
 
-##If you want to do the same but with command line, see below!##
+*If you want to do the same but with command line, see below!*
 
----
+<br><br>
 
 
 # How NOT to Create a New Repository When Fixing Code After a Review Using Command Line/Terminal/Shell
