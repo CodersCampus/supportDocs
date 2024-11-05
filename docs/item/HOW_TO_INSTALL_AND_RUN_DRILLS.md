@@ -10,7 +10,7 @@
 
 6. Select "Open the repository in your external editor" and make sure the editor (Eclipse, IntelliJ, or VS Code) is selected. Click the button. The "Import Projects from File System or Archive" window appears. Choose "Existing Maven Project" if prompted. Navigate to the directory location on your hard drive,  if not autopopulated. Click "Finish". 
 
-7. The Drills will appear in your package explorer. Expand the *root folder* (ccBootCampDrills), expand the *src folder* (src/main/java), right click on the application (Main.java) and select "Run As Java application". 
+7. The Drills will appear in your package explorer. Expand the *root folder* (ccBootCampDrills), expand the *src folder* (src/main/java), expand top package (com.coderscampus), right click on the application (Main.java) and select "Run As Java application". 
 
 8. You will see in the console a Yes or No question. Choose either one (Yes will open a browser with helpful hints and instructions). 
 
