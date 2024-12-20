@@ -21,6 +21,7 @@ Switching to IntelliJ IDEA is a critical step in your development journey. Intel
 
 ## 2. Master the Full Stack CRUD Self-Test
 [Full Stack CRUD Self-Test](https://youtu.be/8KVrDvpsSHs)
+
 Understanding CRUD operations (Create, Read, Update, Delete) is essential for full-stack development.
 - **Frontend & Backend**: Practice building a simple application that performs CRUD operations using both the frontend and backend and builds upon your experience with Dinosaur Wilbur and the OOP Test from Foundations.
 
