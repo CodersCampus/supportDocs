@@ -17,6 +17,10 @@
 - [Snippets from Alex Mamolo](../item/SNIPPETS_FROM_ALEX_MAMOLO.md)
 - [Installing cp for FullStack](../item/CODER_PACKAGING_INSTRUCTIONS.md)
 
+SUPPORT FOR NEW STUDENTS TO FULL-STACK WORKING ON ASSIGNMENTS 6-8:
+- [Essential skills to develop when first joining Full-Stack](../item/LIVE_CODING_ESSENTIAL_SKILLS.md)
+
+
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
 - [Scrimba](../item/SCRIMBA.md) is an interactive learning platform, lots of free courses and coding practice!
