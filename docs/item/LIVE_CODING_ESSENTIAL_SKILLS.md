@@ -27,9 +27,10 @@ Understanding CRUD operations (Create, Read, Update, Delete) is essential for fu
 ## 3. Pick Up Faster Keyboarding Skills and File Handling Best Practices
 Efficiency is key in live-coding. Improve your speed and accuracy with these tips:
 - **Keyboard Shortcuts**: Learn and use IntelliJ’s keyboard shortcuts for faster navigation and editing.
-- [Keyboard commands Eclipse](../item/KEYBOARD_COMMANDS_ECLIPSE.md)
 
 - [Keyboard commands IntelliJ](../item/KEYBOARD_COMMANDS_INTELLIJ.md)
+- [All-Pro Keyboarding](../item/PRO_TEAM_KEYBOARDING.md)
+
 - **File Management**: Organize your files and directories logically and keep your codebase clean.
 
 ## 4. GitHub Ticket Flow: From Start to Finish
