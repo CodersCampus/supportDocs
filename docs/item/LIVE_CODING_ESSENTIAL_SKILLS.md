@@ -2,7 +2,9 @@
 
 ## TL;DR
 
-Master the fundamentals before diving into Spring Boot! Focus on:
+### Imitation: Use the Checkin meetings to imitate the best students in the room. The purpose of the meetings is to learn the EASY WAY. 
+
+Master these fundamentals before diving into Spring Boot! Focus on:
 
 - Migrating to IntelliJ
 - Sharpening your Full-Stack CRUD skills
@@ -11,7 +13,7 @@ Master the fundamentals before diving into Spring Boot! Focus on:
 - Understanding processes that happen outside meetings (#hardcore)
 - Testing your tickets like a pro
 
-Welcome to live-coding! To help you hit the ground running, here are some key areas to focus on during Assignments 6-8. Mastering these fundamental skills will set you up for success and help you contribute effectively during live-coding sessions.
+Welcome to live-coding! To help you hit the ground running, here are some key areas to focus on during Assignments 6-8. Mastering these fundamental skills will set you up for success and help you contribute effectively during live-coding sessions. Remember that IMITATION is your best friend. Use the Checkin meetings to imitate the best students in the room. The purpose of the meetings is to learn the EASY WAY.
 
 ## 1. Migrating to IntelliJ
 Switching to IntelliJ IDEA is a critical step in your development journey. IntelliJ offers powerful features and tools that streamline coding, debugging, and testing.
@@ -27,7 +29,8 @@ Understanding CRUD operations (Create, Read, Update, Delete) is essential for fu
 
 ## 3. Pick Up Faster Keyboarding Skills and File Handling Best Practices
 Efficiency is key in live-coding. Improve your speed and accuracy with these tips:
-- **Keyboard Shortcuts**: Learn and use IntelliJ’s keyboard shortcuts for faster navigation and editing.
+- **Keyboard Shortcuts**: Learn and use IntelliJ’s keyboard shortcuts for faster navigation and editing. 
+- Imitation: Use the Checkin meetings to imitate the best students in the room. The purpose of the meetings is to learn the EASY WAY. By watching others it is much easier to pick up tricks that might take years on your own. 
 
 - [Keyboard commands IntelliJ](../item/KEYBOARD_COMMANDS_INTELLIJ.md)
 - [All-Pro Keyboarding](../item/PRO_TEAM_KEYBOARDING.md)
