@@ -30,3 +30,6 @@ This is probably as important, or sometimes even more, than getting yours skills
 ## Bootcamp issues
 
 - [Performance issues FAQ](FAQ/BOOTCAMP_ISSUES.md) 
+
+
+
