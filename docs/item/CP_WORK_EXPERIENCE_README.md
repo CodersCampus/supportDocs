@@ -32,10 +32,6 @@ Tickets shall always be owned by one of the leads on the Work Experience team an
   - All **coding** tasks should be completed **outside the meeting**.
   - The **Pull Request (PR)** and **Code Review processes** will be conducted **during the meeting**.
 
-## Team Priorities
-1. The **Work Experience team members** are the first obligation.
-2. Equally important is providing support to **students not yet at the Work Experience level**.
-
 ## Communication and Terminology
 - The `#leads-cp` channel is designated for communication within the Work Experience team.
 - Every member of the Work Experience team shall be referred to as a **“lead”**.
