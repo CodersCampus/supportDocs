@@ -14,6 +14,10 @@ So the main rule is stick to what matters, and use the rules/guidelines below as
 2. We serve all checkin attendees! Students invest their valuable time in a checkin - we are here to make this investment pay off for them. Everything we do should support this investment, else why even do it?
 3. The `cp` app is a goal by itself. This app is here for the use of all students. We should always prioritize our efforts to maximize value in the app. We should always prioritize our tickets and efforts on those tickets, accordingly.
 
+## Always Evolving
+
+Everything you see here, as well as what we do in the checkins themselves, is always evolving. Sometimes we will even change things in practice, and forget to note changes on this document itself :)
+
 ## Ticket Ownership
 Tickets shall always be owned by one of the leads on the Work Experience team and must adhere to the following guidelines:
 1. Tickets are always **owned by Product Owner: Bianconi first** until explicitly handed off to another lead.
