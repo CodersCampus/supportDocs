@@ -21,17 +21,17 @@ Everything you see here, as well as what we do in the checkins themselves, is al
 ## Ticket Ownership
 Tickets shall always be owned by one of the leads on the Work Experience team and must adhere to the following guidelines:
 1. Tickets are always **owned by Product Owner: Bianconi first** until explicitly handed off to another lead.
-2. The next owner must ensure **100% clarity** before taking ownership.
+2. The next owner will ensure **100% clarity** before taking ownership. There needs to be a clean handoff in both directions. 
 
 ## Meeting and Work Allocation
 - **Meeting Roles:**
-  - Every meeting must have at least **one lead present** (not the Product Owner, but a developer).
-  - Leads should sign up at the beginning of every week in the `#leads-cp` channel to indicate which meetings they will attend.
+  - Every meeting ideally will have at least **one lead present** (not the Product Owner, but a developer).
+  - Leads will sign up at the beginning of every week in the `#leads-cp` channel to indicate which meetings they will attend.
 
 - **Work Division:**
-  - All **coding** tasks should be completed **outside the meeting**.
+  - Some **coding** tasks can be completed **outside the meeting**. Others will be completed inside the meeting. There is no right or wrong way to do that. However, there is one rule:
   - The **Pull Request (PR)** and **Code Review processes** will be conducted **during the meeting**.
 
 ## Communication and Terminology
 - The `#leads-cp` channel is designated for communication within the Work Experience team.
-- Every member of the Work Experience team shall be referred to as a **“lead”**.
+- Every member of the Work Experience team will be referred to as a **“lead”**.
