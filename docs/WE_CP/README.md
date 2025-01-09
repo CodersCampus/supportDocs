@@ -9,3 +9,6 @@ Start here for guidelines for cp Work Experience.
 
 ## Ticket selection guidelines:
 - [Ticket selection guidelines](../item/TICKET_SELECTION_GUIDELINES.md)
+
+## GitHub Best Practices:
+- [GitHub Best Practices](../item/GITHUB_BEST_PRACTICES.md)
