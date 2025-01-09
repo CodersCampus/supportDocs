@@ -32,4 +32,6 @@ This is probably as important, or sometimes even more, than getting yours skills
 - [Performance issues FAQ](FAQ/BOOTCAMP_ISSUES.md) 
 
 
+## Coders Campus CP Work Experience
 
+- [CP Work Experience](/docs/WE_CP/README.md).md)
