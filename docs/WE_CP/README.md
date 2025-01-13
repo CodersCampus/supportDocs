@@ -2,7 +2,7 @@
 
 Welcome to the CP Work Experience documentation!
 
-🔙 [Back to Main Support Docs](README.md)
+🔙 [Back to Main Support Docs](../README.md)
 
 Table of Contents:
 
