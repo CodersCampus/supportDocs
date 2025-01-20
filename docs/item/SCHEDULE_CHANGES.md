@@ -49,6 +49,13 @@ The most likely result will be that meetings will drop to 3 or 4 per week, but w
 2. **Signups happen between Sunday noon and Monday noon CST**
 3. Schedule for the week is posted in #active-fullstack at 1pm CST Mondays
 
+Sign-ups only required for these 4 low attendance meetings (else cancelled individually):
+
+- Mon AM
+- Tues
+- Wed AM
+- Fri AM
+
 We are very few in number so this is a relaxed approach - no database, no forms, no apps just a few of us working it out weekly, in advance, on slack.
 
 Repeating for emphasis: _**Ask for what you need. We're here to serve,**_ our principles have not and will not change.
