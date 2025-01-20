@@ -33,7 +33,7 @@ Projections are always wrong, but if these are even in the ballpark, this is too
 
 The math: 7 students attending 1.5 checkins is an average attendance of 1.5 for 7 checkins. Most students don't want to be the only one at any checkin.
 
-## The Remedy - Sign Ups for all but 3 checkins scheduled.
+## The Remedy - Sign Ups for all but 3 Scheduled Checkins
 
 1. Our 3 most popular checkins remain as scheduled, Mon & Wed night, Thurs afternoon
 2. Other scheduled checkins remain also - but only if students sign up in advance.
@@ -46,10 +46,10 @@ The most likely result will be that meetings will drop to 3 or 4 per week, but w
 ## Process - 24 hour Sign-up Window
 
 1. All signups are just casual discussions on #active-fullstack - just say what you want for the week
-2. Signups happen between Sunday noon and Monday noon CST
+2. **Signups happen between Sunday noon and Monday noon CST**
 3. Schedule for the week is posted in #active-fullstack at 1pm CST Mondays
 
-We are very few in number so this is a relaxed approach - no database, no forms, no apps just a few of us working it out weekly in advance on slack.
+We are very few in number so this is a relaxed approach - no database, no forms, no apps just a few of us working it out weekly, in advance, on slack.
 
 Repeating for emphasis: _**Ask for what you need. We're here to serve,**_ our principles have not and will not change.
 
