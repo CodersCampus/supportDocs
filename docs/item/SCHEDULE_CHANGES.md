@@ -13,21 +13,21 @@ Our first principle is to serve our students, so if our checkins are not working
 
 #### Internal
 
-- Our extremely successful and well received Work Experience program has also siphoned off some checkin attendance.
+- Our extremely successful and well received Work Experience program has also siphoned off a modest amount of checkin attendance.
 
 ## Projected Pool of Active 2025 Full Stack Students
 
-- Feb - 8 active students total
-- March - 7 active students total
-- April - 7 active students total
-- May - 6 active students total
-- June - 5 active students total
-- July - 4 active students total
-- August - 3 active students total
-- September - 3 active students total
-- October - 3 active students total
-- November - 3 active students total
-- December - 3 active students total
+- Feb - 8 active full-stackers
+- Mar - 7 active full-stackers
+- Apr - 7 active full-stackers
+- May - 6 active full-stackers
+- Jun - 5 active full-stackers
+- Jul - 4 active full-stackers
+- Aug - 3 active full-stackers
+- Sep - 3 active full-stackers
+- Oct - 3 active full-stackers
+- Nov - 3 active full-stackers
+- Dec - 3 active full-stackers
 
 Projections are always wrong, but if these are even in the ballpark, this is too few meetings to support 7 fullstack checkins a week, going by what our students prefer.
 
@@ -51,7 +51,7 @@ The most likely result will be that meetings will drop to 3 or 4 per week, but w
 
 We are very few in number so this is a relaxed approach - no database, no forms, no apps just a few of us working it out weekly in advance on slack.
 
-Repeating for emphasis: Ask for what you need. We're here to serve, our principles have not and will not change.
+Repeating for emphasis: _**Ask for what you need. We're here to serve,**_ our principles have not and will not change.
 
 ## Other Changes?
 
