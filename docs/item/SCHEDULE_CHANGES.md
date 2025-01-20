@@ -17,17 +17,17 @@ Our first principle is to serve our students, so if our checkins are not working
 
 ## Projected Pool of Active 2025 Full Stack Students
 
-- Feb - 12 active full-stackers
-- Mar - 10 active full-stackers
-- Apr - 9 active full-stackers
-- May - 7 active full-stackers
-- Jun - 6 active full-stackers
-- Jul - 5 active full-stackers
-- Aug - 6 active full-stackers
-- Sep - 6 active full-stackers
-- Oct - 6 active full-stackers
-- Nov - 8 active full-stackers
-- Dec - 7 active full-stackers
+- Feb - **12** active full-stackers
+- Mar - **10** active full-stackers
+- Apr - **9** active full-stackers
+- May - **7** active full-stackers
+- Jun - **6** active full-stackers
+- Jul - **5** active full-stackers
+- Aug - **6** active full-stackers
+- Sep - **6** active full-stackers
+- Oct - **6** active full-stackers
+- Nov - **8** active full-stackers
+- Dec - **7** active full-stackers
 
 Projections are always wrong, but if these are even in the ballpark, this is too few students to populate 7 fullstack checkins a week.
 
