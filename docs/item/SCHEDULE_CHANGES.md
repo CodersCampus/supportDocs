@@ -29,7 +29,7 @@ Our first principle is to serve our students, so if our checkins are not working
 - Nov - 8 active full-stackers
 - Dec - 7 active full-stackers
 
-Projections are always wrong, but if these are even in the ballpark, this is too few students to support 7 fullstack checkins a week.
+Projections are always wrong, but if these are even in the ballpark, this is too few students to populate 7 fullstack checkins a week.
 
 The math: 7 students attending 1.5 checkins is an average attendance of 1.5 for 7 checkins. Few students ever want to be the only one at a checkin.
 
