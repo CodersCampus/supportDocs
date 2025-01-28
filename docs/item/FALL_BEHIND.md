@@ -62,7 +62,7 @@ Since each of the above events can cause you lots of heart-burn and frustration,
 
 - But if you are behind, and the internal professional motivation isn't doing the trick, you're going to have to show us you are working on the courework in order to remain active. You will officially be in Time Watch status. The way you show us your progress and committment is with the Work Log below.
 
-[Click this link for the Work Log](https://punk-production.up.railway.app/work/create)
+[Click this link for the Work Log](https://cp.coderscampus.com/work/create)
 
 If you fall behind in the bootcamp, you may be marked as **inactive**. Here's what that means and how you can regain your active status.
 
