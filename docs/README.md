@@ -39,4 +39,4 @@ This is probably as important, or sometimes even more, than getting yours skills
 
 ## Coders Campus Closing Full-Stack Java Bootcamp
 
-- [What It Means For Students](./FAQ/WHAT_IT_MEANS.md)
+- [What It Means For Students](./item/WHAT_IT_MEANS_FOR_STUDENTS.md)
