@@ -28,6 +28,8 @@ As long as your tuition payments are completed, you will retain **full lifetime 
 
 ## **What’s Next?**  
 
+- Exchange contact details with everyone
+- Slack will still be available
 - Keep coding, keep learning, and keep pushing toward your goals!  
 - If you have any questions or need further clarification, drop them in the chat or reach out directly.  
 - We're excited to continue supporting you and **helping you land that dream job!**  
