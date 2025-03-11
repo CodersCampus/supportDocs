@@ -35,3 +35,8 @@ This is probably as important, or sometimes even more, than getting yours skills
 ## Coders Campus CP Work Experience
 
 - [CP Work Experience](./WE_CP/README.md)
+
+
+## Coders Campus Closing Full-Stack Java Bootcamp
+
+- [What It Means For Students](./FAQ/WHAT_IT_MEANS.md)
