@@ -31,7 +31,7 @@ We’ll be streamlining and cleaning up Slack channels to focus on **active stud
 
 ## 📋 Personalized Job Checklist
 
-We’ll be reaching out to each student individually with a **checklist of next steps** to help guide your job search process.
+We’ll be reaching out to each active student individually with a **checklist of next steps** to help guide your job search process.
 
 ➡️ **Miriam** will follow up via DM to ensure everyone has what they need and is supported through the checklist.
 
