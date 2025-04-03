@@ -17,7 +17,7 @@ To be considered an active student, you must maintain some combination of:
 - Engage with the community (Slack, meetings, etc.)
 
 We can’t say how much progress you need to make at any given time.
-But what we WILL do is focus our efforts on those who are making visible progress. If we can’t see any progress, we will simply drop you off the active-full-stack channel and let you go your own way until you want to become active again. 
+But what we WILL do is focus our efforts on those who are making visible progress. If we can’t see any progress, we will simply drop you off the active-full-stack channel and let you go your own way until you want to become visibly active again. 
 
 If you're putting in the work, we’re here to match that energy and help you cross the finish line.
 
