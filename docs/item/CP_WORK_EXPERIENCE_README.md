@@ -10,7 +10,7 @@ So the main rule is stick to what matters, and use the rules/guidelines below as
 
 ## What Matters?
 
-1. This program is **_for it's participants_** - those students who are giving their time up to contribute, in exchange for the chance to claim employment on their resume. Never lose sight of our single objective - to help them look good and have experience to get that job that they are looking for!
+1. This program is **_for its participants_** - those students who are giving their time up to contribute, in exchange for the chance to claim employment on their resume. Never lose sight of our single objective - to help them look good and have experience to get that job that they are looking for!
 2. We serve all checkin attendees! Students invest their valuable time in a checkin - we are here to make this investment pay off for them. Everything we do should support this investment, else why even do it?
 3. The `cp` app is a goal by itself. This app is here for the use of all students. We should always prioritize our efforts to maximize value in the app. We should always prioritize our tickets and efforts on those tickets, accordingly.
 
