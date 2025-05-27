@@ -18,6 +18,7 @@ This guide outlines how to set up intelligent guardrails in [Cursor](https://www
 ## Step 1: Create Your Rule Files
 
 Guardrails are implemented using **MDC rule files**. These guide the AI to respond according to your project's stack, style, and expectations.
+You can click the Settings cog in top-right corner and go to Rules from there.
 
 Example structure:
 
@@ -103,7 +104,7 @@ Use **Ask like a teammate**, not a search engine. You're here to build _and_ lea
 
 ---
 
-Happy coding! 
+
 
 
 
