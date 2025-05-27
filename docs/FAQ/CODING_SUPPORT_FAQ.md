@@ -24,7 +24,7 @@ SUPPORT FOR STUDENTS WORKING ON ASSIGNMENT 14:
 - [Do I add a database or not](../item/A14_DO_I_ADD_A_DATABASE.md)
 
 TIPS FOR STUDENTS ENDEAVORING TO CODE WITH CURSOR:
-- [How to implement guardrails in Cursor]()
+- [How to implement guardrails in Cursor](../item/HOW_TO_IMPLEMENT_CURSOR_GUARDRAILS.md)
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
