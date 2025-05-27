@@ -20,6 +20,11 @@
 SUPPORT FOR NEW STUDENTS TO FULL-STACK WORKING ON ASSIGNMENTS 6-8:
 - [Essential skills to develop when first joining Full-Stack](../item/LIVE_CODING_ESSENTIAL_SKILLS.md)
 
+SUPPORT FOR STUDENTS WORKING ON ASSIGNMENT 14:
+- [Do I add a database or not](../item/A14_DO_I_ADD_A_DATABASE.md)
+
+TIPS FOR STUDENTS ENDEAVORING TO CODE WITH CURSOR:
+- [How to implement guardrails in Cursor]()
 
 PRACTICE!
 - [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
