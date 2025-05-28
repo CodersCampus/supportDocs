@@ -1,4 +1,4 @@
-# Instructor Suggestions for Using AI During Bootcamp
+# Instructor's Suggestions for Using AI During Bootcamp
 
 ## TL;DR
 
