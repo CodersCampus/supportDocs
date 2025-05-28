@@ -1,10 +1,12 @@
-# Implementing Guardrails in Cursor IDE
+
 
 > We really don't encourage using an AI-based IDE on any projects before your final project, especially one that does vibe coding. 
 
 > And as always, you need to box in the AI. It's wise to use it to give you insight into specific code sections to make sure you're learning. That is the point of the bootcamp. You'll have plenty of time to code with Cursor after the bootcamp.
 
 BUT if you really must get into Cursor, you need to implement a guardrail plan. Read on if you want to learn how.
+
+# Implementing Guardrails in Cursor IDE
 
 > Remember, your project should look like something *you* would actually build and can explain. Guardrails keep the vibe-coding from getting out of control.  
 
