@@ -21,7 +21,7 @@ SUPPORT FOR NEW STUDENTS TO FULL-STACK WORKING ON ASSIGNMENTS 6-8:
 - [Essential skills to develop when first joining Full-Stack](../item/LIVE_CODING_ESSENTIAL_SKILLS.md)
 
 AI-BASED IDES AS IT RELATES TO BOOTCAMP STUDENTS WORKING ON FULL STACK ASSIGNMENTS:
-- [Suggestions from your Coders Campus support staff]()
+- [Suggestions from your Coders Campus support staff](../item/AI_SUGGESTIONS_FROM_CC_SUPPORT_STAFF.md)
 
 SUPPORT FOR STUDENTS WORKING ON ASSIGNMENT 14:
 - [Do I add a database or not](../item/A14_DO_I_ADD_A_DATABASE.md)
