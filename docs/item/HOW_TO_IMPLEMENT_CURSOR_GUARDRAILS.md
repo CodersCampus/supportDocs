@@ -17,8 +17,12 @@ This guide outlines how to set up intelligent guardrails in [Cursor](https://www
 
 ## Step 1: Create Your Rule Files
 
-Guardrails are implemented using **MDC rule files**. These guide the AI to respond according to your project's stack, style, and expectations.
-You can click the Settings cog in top-right corner and go to Rules from there.
+Guardrails are implemented using **MDC rule files**. These guide the AI to respond according to your project's stack, style, and expectations.  
+You can click the ⚙️ Settings cog in the top-right corner and go to **Rules** from there. There are **User Rules** (global) and **Project Rules** (per repo). You don’t need to set both. Just pick what fits your workflow.  
+
+I recommend storing your rule content in `.mdc` files inside your project (e.g., `.cursor/java-rules.mdc`) and referencing it in your `.cursor-config`. This way, your rules are version-controlled, reusable, and can be shared.  
+Once linked, you don’t need to paste rule text into Cursor’s settings. The config does the work.
+
 
 Example structure:
 
