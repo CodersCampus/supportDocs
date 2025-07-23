@@ -55,6 +55,13 @@ public class StudentSeeder implements CommandLineRunner {
         Student s1 = new Student("abc", "name1", 1, "IntelliJ", false, "mentor1", null);
         Student s2 = new Student("def", "name2", 2, "IntelliJ", false, "mentor2", null);
         studentRepo.saveAll(List.of(s1, s2));              // use your repo as usual
+
+        /** YOU CAN CREATE HUNDREDS OF RECORDS 
+         * in any and every table, right here, 
+         * using the above type of code,  
+         * CheckinServiceTest or any other that Robert has done,
+         * for examples
+         * */
     }
 }
 ```
