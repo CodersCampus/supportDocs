@@ -88,6 +88,8 @@ public class SeedApplication {
 }
 ```
 
+You can probably run this from within our ide like any main, or try below if you're hard core.
+
 Run it from your IDE or command line:
 
 ```bash
