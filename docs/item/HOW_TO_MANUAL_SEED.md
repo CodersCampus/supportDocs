@@ -12,7 +12,7 @@ Or you could also just delete your h2db at will, if you didn't want to create th
 
 Either way _**"With great power comes great responsibility"**_
 
-## Notes
+## How To
 
 ### A “Spring‑y” way to run one‑off logic without touching your main web entry‑point
 
