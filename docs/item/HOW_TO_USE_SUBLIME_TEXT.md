@@ -1,4 +1,4 @@
-# Why should I use sublime text?
+# Why should I use Sublime Text?
 
 Sublime Text is a text and code editor that you can use in IntelliJ to get things done a lot faster when you are editing a template.
 
