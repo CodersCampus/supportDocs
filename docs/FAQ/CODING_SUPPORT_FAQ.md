@@ -1,10 +1,8 @@
 # Coding support FAQ
 
-
-
 - [Project/package/Class organization](../item/CLASS_AND_PACKAGE_ORGANIZATION.md)
 - [Loops & Conditional Statements](../item/LOOPS_&_CONDITIONAL_STATEMENTS.md)
-- [Interfaces_&_Abstract_Classes](../item/INTERFACES_ABSTRACT_CLASSES.md)
+- [Interfaces\_&_Abstract_Classes](../item/INTERFACES_ABSTRACT_CLASSES.md)
 - [Inheritance](../item/INHERITANCE.md)
 - [int_vs_Integer](../item/INTEGER_VS_INT.md)
 - [Maps](../item/MAPS.md)
@@ -18,21 +16,25 @@
 - [Installing cp for FullStack](../item/CODER_PACKAGING_INSTRUCTIONS.md)
 
 SUPPORT FOR NEW STUDENTS TO FULL-STACK WORKING ON ASSIGNMENTS 6-8:
+
 - [Essential skills to develop when first joining Full-Stack](../item/LIVE_CODING_ESSENTIAL_SKILLS.md)
+- [Using Sublime Text](../item/HOW_TO_USE_SUBLIME_TEXT.md)
 
 AI-BASED IDES AS IT RELATES TO BOOTCAMP STUDENTS WORKING ON FULL STACK ASSIGNMENTS:
+
 - [Suggestions from your Coders Campus support staff](../item/AI_SUGGESTIONS_FROM_CC_SUPPORT_STAFF.md)
 
 SUPPORT FOR STUDENTS WORKING ON ASSIGNMENT 14:
+
 - [Do I add a database or not](../item/A14_DO_I_ADD_A_DATABASE.md)
 
 TIPS FOR STUDENTS ENDEAVORING TO CODE WITH CURSOR:
+
 - [How to implement guardrails in Cursor](../item/HOW_TO_IMPLEMENT_CURSOR_GUARDRAILS.md)
 
 PRACTICE!
-- [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md) 
+
+- [HTML/CSS Games/resources](../item/HELPFUL_SITES_FOR_HTML_CSS.md)
 - [Scrimba](../item/SCRIMBA.md) is an interactive learning platform, lots of free courses and coding practice!
 - [Testing your knowledge!](../item/CODE_PRACTICE_PROBLEMS_SITE.md)
 - [How To Install And Run Drills](../item/HOW_TO_INSTALL_AND_RUN_DRILLS.md)
-
-
