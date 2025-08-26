@@ -3,9 +3,10 @@
 Sublime Text is a text and code editor that you can use in IntelliJ to get things done a lot faster when you are editing a template.
 
 With Sublime Text, you can:
--Edit text in multiple places at once
--Automatically select the same text throughout a file
--Copy and paste lines that are spread out from one another
+
+- Edit text in multiple places at once
+- Automatically select the same text throughout a file
+- Copy and paste lines that are spread out from one another
 
 ## Enabling Sublime Text in IntelliJ
 
